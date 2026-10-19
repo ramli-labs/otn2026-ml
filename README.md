@@ -2,4 +2,4 @@
 
 Web informasi lomba E-Sport Mobile Legend OTN 8 2026 (Olimpiade Informatika dan KKA): jadwal, format, cara daftar, aturan, bracket, grup WhatsApp, dan kontak panitia.
 
-Situs: https://ramli-labs.github.io/otn2026-ml/
+Situs: https://otn2026-ml.vercel.app/
