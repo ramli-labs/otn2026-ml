@@ -22,7 +22,7 @@
    "kota": "Banyumas",
    "jenjang": "SMP"
   },
-  "Al-Muhajirin Fullday": {
+  "VOID REBORN": {
    "sekolah": "SMP Fullday Al-Muhajirin",
    "kota": "Purwakarta",
    "jenjang": "SMP"
@@ -82,7 +82,7 @@
    "kota": "Jakarta Timur",
    "jenjang": "SMP"
   },
-  "Esport Spensapung": {
+  "SUKRING ID": {
    "sekolah": "SMPN 1 Limpung",
    "kota": "Batang",
    "jenjang": "SMP"
@@ -205,7 +205,7 @@
     "TSADUTA TEAM",
     "Tim 1 Spenpat Subang",
     "Kids spatel",
-    "Al-Muhajirin Fullday"
+    "VOID REBORN"
    ],
    "B": [
     "Kangkung rebus",
@@ -223,7 +223,7 @@
    ],
    "D": [
     "LABSRAW",
-    "Esport Spensapung",
+    "SUKRING ID",
     "Nexura Storm (NXR)",
     "SPANSAK",
     "Tim 2 Spenpat Subang"
@@ -251,7 +251,7 @@
     "hari": "Kamis, 29 Okt",
     "jam": "13.00",
     "a": "TSADUTA TEAM",
-    "b": "Al-Muhajirin Fullday",
+    "b": "VOID REBORN",
     "menang": "",
     "durasi": ""
    },
@@ -316,7 +316,7 @@
     "ronde": 1,
     "hari": "Kamis, 29 Okt",
     "jam": "13.25",
-    "a": "Esport Spensapung",
+    "a": "SUKRING ID",
     "b": "Tim 2 Spenpat Subang",
     "menang": "",
     "durasi": ""
@@ -383,7 +383,7 @@
     "hari": "Kamis, 29 Okt",
     "jam": "14.15",
     "a": "GANI",
-    "b": "Al-Muhajirin Fullday",
+    "b": "VOID REBORN",
     "menang": "",
     "durasi": ""
    },
@@ -459,7 +459,7 @@
     "ronde": 2,
     "hari": "Kamis, 29 Okt",
     "jam": "14.40",
-    "a": "Esport Spensapung",
+    "a": "SUKRING ID",
     "b": "Nexura Storm (NXR)",
     "menang": "",
     "durasi": ""
@@ -525,7 +525,7 @@
     "ronde": 3,
     "hari": "Kamis, 29 Okt",
     "jam": "15.30",
-    "a": "Al-Muhajirin Fullday",
+    "a": "VOID REBORN",
     "b": "Tim 1 Spenpat Subang",
     "menang": "",
     "durasi": ""
@@ -724,7 +724,7 @@
     "hari": "Kamis, 29 Okt",
     "jam": "17.10",
     "a": "SPANSAK",
-    "b": "Esport Spensapung",
+    "b": "SUKRING ID",
     "menang": "",
     "durasi": ""
    },
@@ -790,7 +790,7 @@
     "hari": "Kamis, 29 Okt",
     "jam": "19.25",
     "a": "Kids spatel",
-    "b": "Al-Muhajirin Fullday",
+    "b": "VOID REBORN",
     "menang": "",
     "durasi": ""
    },
@@ -845,7 +845,7 @@
     "hari": "Kamis, 29 Okt",
     "jam": "19.50",
     "a": "LABSRAW",
-    "b": "Esport Spensapung",
+    "b": "SUKRING ID",
     "menang": "",
     "durasi": ""
    },
