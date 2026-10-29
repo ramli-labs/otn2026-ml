@@ -249,7 +249,7 @@ details.bk-day{margin-top:10px}details.bk-day>summary{cursor:pointer;font-weight
   </div>
   <div class="panel" style="margin-top:14px">
     <h3>Poin fase grup SMP</h3>
-    <p class="lead">Menang 3 poin, kalah 0, WO 0. Bila poin sama: head-to-head, lalu rata-rata durasi kemenangan tercepat, lalu total kill, lalu match tiebreak BO1.</p>
+    <p class="lead">Menang 3 poin, kalah 0, WO 0 (lawan yang menang WO dihitung menang dengan durasi 5 menit untuk rata-rata durasi). Bila poin sama: head-to-head, lalu rata-rata durasi kemenangan tercepat, lalu total kill, lalu match tiebreak BO1.</p>
   </div>
   <div class="two">
     <div class="panel">
@@ -446,7 +446,7 @@ details.bk-day{margin-top:10px}details.bk-day>summary{cursor:pointer;font-weight
     var ts=D.smp.grup[g], st={}; ts.forEach(function(t){st[t]={t:t,m:0,w:0,l:0,p:0,dur:[]};});
     var ms=D.smp.match.filter(function(m){return m.grup===g;}), selesai=ms.every(function(m){return m.menang;});
     ms.forEach(function(m){ if(!m.menang) return; var w=m.menang==='a'?m.a:m.b, l=m.menang==='a'?m.b:m.a;
-      st[w].m++; st[w].w++; st[w].p+=3; st[l].m++; st[l].l++; if(m.durasi) st[w].dur.push(sec(m.durasi)); });
+      st[w].m++; st[w].w++; st[w].p+=3; st[l].m++; st[l].l++; if(m.wo) st[w].dur.push(300); else if(m.durasi) st[w].dur.push(sec(m.durasi)); });
     function h2h(x,y){ var m=ms.filter(function(m){return m.menang&&((m.a===x&&m.b===y)||(m.a===y&&m.b===x));})[0]; if(!m) return 0; var w=m.menang==='a'?m.a:m.b; return w===x?-1:1; }
     function avg(o){ return o.dur.length? o.dur.reduce(function(a,b){return a+b;},0)/o.dur.length : 99999; }
     var arr=ts.map(function(t){return st[t];});
@@ -502,7 +502,7 @@ details.bk-day{margin-top:10px}details.bk-day>summary{cursor:pointer;font-weight
     } else if(sub.SMP==='jadwal'){
       h+='<p class="bk-note">Kamis, 29 Oktober 2026 · BO1 · 4 room bersamaan · tim bersiap 30 menit sebelum jadwal.</p><div class="bk-list">';
       D.smp.match.forEach(function(m){ var wa=m.menang==='a', wb=m.menang==='b';
-        h+='<div class="bk-row"><span class="bk-tag">'+esc(m.id)+'</span><b>'+esc(m.jam)+'</b><span class="vs"><b class="'+(wa?'w':m.menang?'l':'')+'">'+esc(m.a)+'</b><span>vs</span><b class="'+(wb?'w':m.menang?'l':'')+'">'+esc(m.b)+'</b>'+(m.durasi?'<span class="bk-s">('+esc(m.durasi)+')</span>':'')+'</span></div>'; });
+        h+='<div class="bk-row"><span class="bk-tag">'+esc(m.id)+'</span><b>'+esc(m.jam)+'</b><span class="vs"><b class="'+(wa?'w':m.menang?'l':'')+'">'+esc(m.a)+'</b><span>vs</span><b class="'+(wb?'w':m.menang?'l':'')+'">'+esc(m.b)+'</b>'+(m.wo?'<span class="bk-s">(WO)</span>':m.durasi?'<span class="bk-s">('+esc(m.durasi)+')</span>':'')+'</span></div>'; });
       h+='</div>';
     } else {
       var sd=seeds(), R=resolver(D.smp.gugur, sd);

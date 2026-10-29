@@ -715,7 +715,8 @@
         "a": "Nexura Storm (NXR)",
         "b": "LABSRAW",
         "menang": "b",
-        "durasi": ""
+        "durasi": "",
+        "wo": true
       },
       {
         "id": "D4-2",
@@ -890,8 +891,8 @@
         "jam": "20.15",
         "a": "SMP LABSCIB",
         "b": "ACDNT",
-        "menang": "",
-        "durasi": ""
+        "menang": "b",
+        "durasi": "13:03"
       },
       {
         "id": "F5-2",
