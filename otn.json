@@ -1,1241 +1,1241 @@
 {
- "_petunjuk": "Isi 'menang' dengan \"a\" atau \"b\" (tim kiri/kanan). 'durasi' (fase grup) format mm:ss untuk tiebreak. 'skor' untuk BO3/BO5, contoh \"2-1\". 'seed_manual' boleh diisi 16 nama tim (urut seed 1-16) untuk menimpa seeding otomatis.",
- "diperbarui": "28 Okt 2026, 21.00 WIB",
- "tim": {
-  "GANI": {
-   "sekolah": "SMP Labschool Jakarta",
-   "kota": "Jakarta Timur",
-   "jenjang": "SMP"
+  "_petunjuk": "Isi 'menang' dengan \"a\" atau \"b\" (tim kiri/kanan). 'durasi' (fase grup) format mm:ss untuk tiebreak. 'skor' untuk BO3/BO5, contoh \"2-1\". 'seed_manual' boleh diisi 16 nama tim (urut seed 1-16) untuk menimpa seeding otomatis.",
+  "diperbarui": "28 Okt 2026, 21.00 WIB",
+  "tim": {
+    "GANI": {
+      "sekolah": "SMP Labschool Jakarta",
+      "kota": "Jakarta Timur",
+      "jenjang": "SMP"
+    },
+    "TSADUTA TEAM": {
+      "sekolah": "MTsN 2 Trenggalek",
+      "kota": "Trenggalek",
+      "jenjang": "SMP"
+    },
+    "Tim 1 Spenpat Subang": {
+      "sekolah": "SMPN 4 Subang",
+      "kota": "Subang",
+      "jenjang": "SMP"
+    },
+    "Kids spatel": {
+      "sekolah": "SMP Telkom Purwokerto",
+      "kota": "Banyumas",
+      "jenjang": "SMP"
+    },
+    "VOID REBORN": {
+      "sekolah": "SMP Fullday Al-Muhajirin",
+      "kota": "Purwakarta",
+      "jenjang": "SMP"
+    },
+    "Kangkung rebus": {
+      "sekolah": "SMPN 233 Jakarta",
+      "kota": "Jakarta Timur",
+      "jenjang": "SMP"
+    },
+    "yllib familia": {
+      "sekolah": "SMPK Mater Dei Pamulang",
+      "kota": "Tangerang Selatan",
+      "jenjang": "SMP"
+    },
+    "BMDB_Esport Tim 2": {
+      "sekolah": "SMP Budi Mulia Dua Bintaro",
+      "kota": "Tangerang Selatan",
+      "jenjang": "SMP"
+    },
+    "PEGOPAT A": {
+      "sekolah": "SMPN 154 Jakarta",
+      "kota": "Jakarta Selatan",
+      "jenjang": "SMP"
+    },
+    "PIIS RANGERS": {
+      "sekolah": "SMP Permata Insani",
+      "kota": "Kab. Tangerang",
+      "jenjang": "SMP"
+    },
+    "SIEXTY": {
+      "sekolah": "SMPN 118 Jakarta",
+      "kota": "Jakarta Pusat",
+      "jenjang": "SMP"
+    },
+    "JUNIOR": {
+      "sekolah": "SMPN 1 Cisalak",
+      "kota": "Subang",
+      "jenjang": "SMP"
+    },
+    "BTR LIBELSZ": {
+      "sekolah": "SMPN 15 Kota Bogor",
+      "kota": "Kota Bogor",
+      "jenjang": "SMP"
+    },
+    "Tim 3 Spenpat Subang": {
+      "sekolah": "SMPN 4 Subang",
+      "kota": "Subang",
+      "jenjang": "SMP"
+    },
+    "SMPN 255 JKT": {
+      "sekolah": "SMPN 255 Jakarta",
+      "kota": "Jakarta Timur",
+      "jenjang": "SMP"
+    },
+    "LABSRAW": {
+      "sekolah": "SMP Labschool Jakarta",
+      "kota": "Jakarta Timur",
+      "jenjang": "SMP"
+    },
+    "SUKRING ID": {
+      "sekolah": "SMPN 1 Limpung",
+      "kota": "Batang",
+      "jenjang": "SMP"
+    },
+    "Nexura Storm (NXR)": {
+      "sekolah": "SMPS 2 Al-Muhajirin",
+      "kota": "Purwakarta",
+      "jenjang": "SMP"
+    },
+    "SPANSAK": {
+      "sekolah": "SMPN 1 Cisalak",
+      "kota": "Subang",
+      "jenjang": "SMP"
+    },
+    "Tim 2 Spenpat Subang": {
+      "sekolah": "SMPN 4 Subang",
+      "kota": "Subang",
+      "jenjang": "SMP"
+    },
+    "Annajah Esport": {
+      "sekolah": "SMP Islam Annajah",
+      "kota": "Jakarta Selatan",
+      "jenjang": "SMP"
+    },
+    "Phelas Esport": {
+      "sekolah": "SMP PGRI 12 Bogor",
+      "kota": "Kota Bogor",
+      "jenjang": "SMP"
+    },
+    "PEGOPAT B": {
+      "sekolah": "SMPN 154 Jakarta",
+      "kota": "Jakarta Selatan",
+      "jenjang": "SMP"
+    },
+    "APEX ESPORTS": {
+      "sekolah": "SMPN 15 Kota Bogor",
+      "kota": "Kota Bogor",
+      "jenjang": "SMP"
+    },
+    "BMDB _Esport": {
+      "sekolah": "SMP Budi Mulia Dua Bintaro",
+      "kota": "Tangerang Selatan",
+      "jenjang": "SMP"
+    },
+    "SMP LABSCIB": {
+      "sekolah": "SMP Labschool Cibubur",
+      "kota": "Kota Bekasi",
+      "jenjang": "SMP"
+    },
+    "ACDNT": {
+      "sekolah": "SMP St. Bellarminus Bekasi",
+      "kota": "Bekasi",
+      "jenjang": "SMP"
+    },
+    "Lucky's Family": {
+      "sekolah": "SMPK Mater Dei Pamulang",
+      "kota": "Tangerang Selatan",
+      "jenjang": "SMP"
+    },
+    "BARFORCE": {
+      "sekolah": "MTsN 44 Jakarta",
+      "kota": "Jakarta Timur",
+      "jenjang": "SMP"
+    },
+    "Putra One Legion": {
+      "sekolah": "SMP Putra 1",
+      "kota": "Jakarta Timur",
+      "jenjang": "SMP"
+    },
+    "PJ CELESTIX": {
+      "sekolah": "SMK Pembangunan Jaya – YAKAPI",
+      "kota": "Jakarta Selatan",
+      "jenjang": "SMA"
+    },
+    "ENEFES": {
+      "sekolah": "SMA Nurul Fikri Boarding School Serang",
+      "kota": "Kab. Serang",
+      "jenjang": "SMA"
+    },
+    "SMADA esport": {
+      "sekolah": "SMAN 2 Toboali",
+      "kota": "Bangka Selatan",
+      "jenjang": "SMA"
+    },
+    "UBUL TEAM": {
+      "sekolah": "SMA IT Insan Cendekia Madani",
+      "kota": "Kab. Bogor",
+      "jenjang": "SMA"
+    },
+    "DEWA": {
+      "sekolah": "SMA IT Insan Cendekia Madani",
+      "kota": "Kab. Bogor",
+      "jenjang": "SMA"
+    },
+    "SMKN 17 JAKARTA": {
+      "sekolah": "SMKN 17 Jakarta",
+      "kota": "Jakarta Barat",
+      "jenjang": "SMA"
+    },
+    "SMA Putra 1 Excellence": {
+      "sekolah": "SMA Putra 1",
+      "kota": "Jakarta Timur",
+      "jenjang": "SMA"
+    },
+    "SMA 1 PSKD": {
+      "sekolah": "SMA 1 PSKD",
+      "kota": "Jakarta Pusat",
+      "jenjang": "SMA"
+    },
+    "RTG READY TO GLORY": {
+      "sekolah": "SMA Qur'an Insan Pratama",
+      "kota": "Kab. Tangerang",
+      "jenjang": "SMA"
+    }
   },
-  "TSADUTA TEAM": {
-   "sekolah": "MTsN 2 Trenggalek",
-   "kota": "Trenggalek",
-   "jenjang": "SMP"
+  "smp": {
+    "grup": {
+      "A": [
+        "GANI",
+        "TSADUTA TEAM",
+        "Tim 1 Spenpat Subang",
+        "Kids spatel",
+        "VOID REBORN"
+      ],
+      "B": [
+        "Kangkung rebus",
+        "yllib familia",
+        "BMDB_Esport Tim 2",
+        "PEGOPAT A",
+        "PIIS RANGERS"
+      ],
+      "C": [
+        "SIEXTY",
+        "JUNIOR",
+        "BTR LIBELSZ",
+        "Tim 3 Spenpat Subang",
+        "SMPN 255 JKT"
+      ],
+      "D": [
+        "LABSRAW",
+        "SUKRING ID",
+        "Nexura Storm (NXR)",
+        "SPANSAK",
+        "Tim 2 Spenpat Subang"
+      ],
+      "E": [
+        "Annajah Esport",
+        "Phelas Esport",
+        "PEGOPAT B",
+        "APEX ESPORTS",
+        "BMDB _Esport"
+      ],
+      "F": [
+        "SMP LABSCIB",
+        "ACDNT",
+        "Lucky's Family",
+        "BARFORCE",
+        "Putra One Legion"
+      ]
+    },
+    "match": [
+      {
+        "id": "A1-1",
+        "grup": "A",
+        "ronde": 1,
+        "hari": "Kamis, 29 Okt",
+        "jam": "13.00",
+        "a": "TSADUTA TEAM",
+        "b": "VOID REBORN",
+        "menang": "",
+        "durasi": ""
+      },
+      {
+        "id": "A1-2",
+        "grup": "A",
+        "ronde": 1,
+        "hari": "Kamis, 29 Okt",
+        "jam": "13.00",
+        "a": "Tim 1 Spenpat Subang",
+        "b": "Kids spatel",
+        "menang": "Kids spatel",
+        "durasi": "13:41"
+      },
+      {
+        "id": "B1-1",
+        "grup": "B",
+        "ronde": 1,
+        "hari": "Kamis, 29 Okt",
+        "jam": "13.00",
+        "a": "yllib familia",
+        "b": "PIIS RANGERS",
+        "menang": "",
+        "durasi": ""
+      },
+      {
+        "id": "B1-2",
+        "grup": "B",
+        "ronde": 1,
+        "hari": "Kamis, 29 Okt",
+        "jam": "13.00",
+        "a": "BMDB_Esport Tim 2",
+        "b": "PEGOPAT A",
+        "menang": "PEGOPAT A",
+        "durasi": "07:12"
+      },
+      {
+        "id": "C1-1",
+        "grup": "C",
+        "ronde": 1,
+        "hari": "Kamis, 29 Okt",
+        "jam": "13.25",
+        "a": "JUNIOR",
+        "b": "SMPN 255 JKT",
+        "menang": "",
+        "durasi": ""
+      },
+      {
+        "id": "C1-2",
+        "grup": "C",
+        "ronde": 1,
+        "hari": "Kamis, 29 Okt",
+        "jam": "13.25",
+        "a": "BTR LIBELSZ",
+        "b": "Tim 3 Spenpat Subang",
+        "menang": "",
+        "durasi": ""
+      },
+      {
+        "id": "D1-1",
+        "grup": "D",
+        "ronde": 1,
+        "hari": "Kamis, 29 Okt",
+        "jam": "13.25",
+        "a": "SUKRING ID",
+        "b": "Tim 2 Spenpat Subang",
+        "menang": "",
+        "durasi": ""
+      },
+      {
+        "id": "D1-2",
+        "grup": "D",
+        "ronde": 1,
+        "hari": "Kamis, 29 Okt",
+        "jam": "13.25",
+        "a": "Nexura Storm (NXR)",
+        "b": "SPANSAK",
+        "menang": "",
+        "durasi": ""
+      },
+      {
+        "id": "E1-1",
+        "grup": "E",
+        "ronde": 1,
+        "hari": "Kamis, 29 Okt",
+        "jam": "13.50",
+        "a": "Phelas Esport",
+        "b": "BMDB _Esport",
+        "menang": "",
+        "durasi": ""
+      },
+      {
+        "id": "E1-2",
+        "grup": "E",
+        "ronde": 1,
+        "hari": "Kamis, 29 Okt",
+        "jam": "13.50",
+        "a": "PEGOPAT B",
+        "b": "APEX ESPORTS",
+        "menang": "",
+        "durasi": ""
+      },
+      {
+        "id": "F1-1",
+        "grup": "F",
+        "ronde": 1,
+        "hari": "Kamis, 29 Okt",
+        "jam": "13.50",
+        "a": "ACDNT",
+        "b": "Putra One Legion",
+        "menang": "",
+        "durasi": ""
+      },
+      {
+        "id": "F1-2",
+        "grup": "F",
+        "ronde": 1,
+        "hari": "Kamis, 29 Okt",
+        "jam": "13.50",
+        "a": "Lucky's Family",
+        "b": "BARFORCE",
+        "menang": "",
+        "durasi": ""
+      },
+      {
+        "id": "A2-1",
+        "grup": "A",
+        "ronde": 2,
+        "hari": "Kamis, 29 Okt",
+        "jam": "14.15",
+        "a": "GANI",
+        "b": "VOID REBORN",
+        "menang": "",
+        "durasi": ""
+      },
+      {
+        "id": "A2-2",
+        "grup": "A",
+        "ronde": 2,
+        "hari": "Kamis, 29 Okt",
+        "jam": "14.15",
+        "a": "TSADUTA TEAM",
+        "b": "Tim 1 Spenpat Subang",
+        "menang": "",
+        "durasi": ""
+      },
+      {
+        "id": "B2-1",
+        "grup": "B",
+        "ronde": 2,
+        "hari": "Kamis, 29 Okt",
+        "jam": "14.15",
+        "a": "Kangkung rebus",
+        "b": "PIIS RANGERS",
+        "menang": "",
+        "durasi": ""
+      },
+      {
+        "id": "B2-2",
+        "grup": "B",
+        "ronde": 2,
+        "hari": "Kamis, 29 Okt",
+        "jam": "14.15",
+        "a": "yllib familia",
+        "b": "BMDB_Esport Tim 2",
+        "menang": "",
+        "durasi": ""
+      },
+      {
+        "id": "C2-1",
+        "grup": "C",
+        "ronde": 2,
+        "hari": "Kamis, 29 Okt",
+        "jam": "14.40",
+        "a": "SIEXTY",
+        "b": "SMPN 255 JKT",
+        "menang": "",
+        "durasi": ""
+      },
+      {
+        "id": "C2-2",
+        "grup": "C",
+        "ronde": 2,
+        "hari": "Kamis, 29 Okt",
+        "jam": "14.40",
+        "a": "JUNIOR",
+        "b": "BTR LIBELSZ",
+        "menang": "",
+        "durasi": ""
+      },
+      {
+        "id": "D2-1",
+        "grup": "D",
+        "ronde": 2,
+        "hari": "Kamis, 29 Okt",
+        "jam": "14.40",
+        "a": "LABSRAW",
+        "b": "Tim 2 Spenpat Subang",
+        "menang": "",
+        "durasi": ""
+      },
+      {
+        "id": "D2-2",
+        "grup": "D",
+        "ronde": 2,
+        "hari": "Kamis, 29 Okt",
+        "jam": "14.40",
+        "a": "SUKRING ID",
+        "b": "Nexura Storm (NXR)",
+        "menang": "",
+        "durasi": ""
+      },
+      {
+        "id": "E2-1",
+        "grup": "E",
+        "ronde": 2,
+        "hari": "Kamis, 29 Okt",
+        "jam": "15.05",
+        "a": "Annajah Esport",
+        "b": "BMDB _Esport",
+        "menang": "",
+        "durasi": ""
+      },
+      {
+        "id": "E2-2",
+        "grup": "E",
+        "ronde": 2,
+        "hari": "Kamis, 29 Okt",
+        "jam": "15.05",
+        "a": "Phelas Esport",
+        "b": "PEGOPAT B",
+        "menang": "",
+        "durasi": ""
+      },
+      {
+        "id": "F2-1",
+        "grup": "F",
+        "ronde": 2,
+        "hari": "Kamis, 29 Okt",
+        "jam": "15.05",
+        "a": "SMP LABSCIB",
+        "b": "Putra One Legion",
+        "menang": "",
+        "durasi": ""
+      },
+      {
+        "id": "F2-2",
+        "grup": "F",
+        "ronde": 2,
+        "hari": "Kamis, 29 Okt",
+        "jam": "15.05",
+        "a": "ACDNT",
+        "b": "Lucky's Family",
+        "menang": "",
+        "durasi": ""
+      },
+      {
+        "id": "A3-1",
+        "grup": "A",
+        "ronde": 3,
+        "hari": "Kamis, 29 Okt",
+        "jam": "15.30",
+        "a": "GANI",
+        "b": "Kids spatel",
+        "menang": "",
+        "durasi": ""
+      },
+      {
+        "id": "A3-2",
+        "grup": "A",
+        "ronde": 3,
+        "hari": "Kamis, 29 Okt",
+        "jam": "15.30",
+        "a": "VOID REBORN",
+        "b": "Tim 1 Spenpat Subang",
+        "menang": "",
+        "durasi": ""
+      },
+      {
+        "id": "B3-1",
+        "grup": "B",
+        "ronde": 3,
+        "hari": "Kamis, 29 Okt",
+        "jam": "15.30",
+        "a": "Kangkung rebus",
+        "b": "PEGOPAT A",
+        "menang": "",
+        "durasi": ""
+      },
+      {
+        "id": "B3-2",
+        "grup": "B",
+        "ronde": 3,
+        "hari": "Kamis, 29 Okt",
+        "jam": "15.30",
+        "a": "PIIS RANGERS",
+        "b": "BMDB_Esport Tim 2",
+        "menang": "",
+        "durasi": ""
+      },
+      {
+        "id": "C3-1",
+        "grup": "C",
+        "ronde": 3,
+        "hari": "Kamis, 29 Okt",
+        "jam": "15.55",
+        "a": "SIEXTY",
+        "b": "Tim 3 Spenpat Subang",
+        "menang": "",
+        "durasi": ""
+      },
+      {
+        "id": "C3-2",
+        "grup": "C",
+        "ronde": 3,
+        "hari": "Kamis, 29 Okt",
+        "jam": "15.55",
+        "a": "SMPN 255 JKT",
+        "b": "BTR LIBELSZ",
+        "menang": "",
+        "durasi": ""
+      },
+      {
+        "id": "D3-1",
+        "grup": "D",
+        "ronde": 3,
+        "hari": "Kamis, 29 Okt",
+        "jam": "15.55",
+        "a": "LABSRAW",
+        "b": "SPANSAK",
+        "menang": "",
+        "durasi": ""
+      },
+      {
+        "id": "D3-2",
+        "grup": "D",
+        "ronde": 3,
+        "hari": "Kamis, 29 Okt",
+        "jam": "15.55",
+        "a": "Tim 2 Spenpat Subang",
+        "b": "Nexura Storm (NXR)",
+        "menang": "",
+        "durasi": ""
+      },
+      {
+        "id": "E3-1",
+        "grup": "E",
+        "ronde": 3,
+        "hari": "Kamis, 29 Okt",
+        "jam": "16.20",
+        "a": "Annajah Esport",
+        "b": "APEX ESPORTS",
+        "menang": "",
+        "durasi": ""
+      },
+      {
+        "id": "E3-2",
+        "grup": "E",
+        "ronde": 3,
+        "hari": "Kamis, 29 Okt",
+        "jam": "16.20",
+        "a": "BMDB _Esport",
+        "b": "PEGOPAT B",
+        "menang": "",
+        "durasi": ""
+      },
+      {
+        "id": "F3-1",
+        "grup": "F",
+        "ronde": 3,
+        "hari": "Kamis, 29 Okt",
+        "jam": "16.20",
+        "a": "SMP LABSCIB",
+        "b": "BARFORCE",
+        "menang": "",
+        "durasi": ""
+      },
+      {
+        "id": "F3-2",
+        "grup": "F",
+        "ronde": 3,
+        "hari": "Kamis, 29 Okt",
+        "jam": "16.20",
+        "a": "Putra One Legion",
+        "b": "Lucky's Family",
+        "menang": "",
+        "durasi": ""
+      },
+      {
+        "id": "A4-1",
+        "grup": "A",
+        "ronde": 4,
+        "hari": "Kamis, 29 Okt",
+        "jam": "16.45",
+        "a": "GANI",
+        "b": "Tim 1 Spenpat Subang",
+        "menang": "",
+        "durasi": ""
+      },
+      {
+        "id": "A4-2",
+        "grup": "A",
+        "ronde": 4,
+        "hari": "Kamis, 29 Okt",
+        "jam": "16.45",
+        "a": "Kids spatel",
+        "b": "TSADUTA TEAM",
+        "menang": "",
+        "durasi": ""
+      },
+      {
+        "id": "B4-1",
+        "grup": "B",
+        "ronde": 4,
+        "hari": "Kamis, 29 Okt",
+        "jam": "16.45",
+        "a": "Kangkung rebus",
+        "b": "BMDB_Esport Tim 2",
+        "menang": "",
+        "durasi": ""
+      },
+      {
+        "id": "B4-2",
+        "grup": "B",
+        "ronde": 4,
+        "hari": "Kamis, 29 Okt",
+        "jam": "16.45",
+        "a": "PEGOPAT A",
+        "b": "yllib familia",
+        "menang": "",
+        "durasi": ""
+      },
+      {
+        "id": "C4-1",
+        "grup": "C",
+        "ronde": 4,
+        "hari": "Kamis, 29 Okt",
+        "jam": "17.10",
+        "a": "SIEXTY",
+        "b": "BTR LIBELSZ",
+        "menang": "",
+        "durasi": ""
+      },
+      {
+        "id": "C4-2",
+        "grup": "C",
+        "ronde": 4,
+        "hari": "Kamis, 29 Okt",
+        "jam": "17.10",
+        "a": "Tim 3 Spenpat Subang",
+        "b": "JUNIOR",
+        "menang": "",
+        "durasi": ""
+      },
+      {
+        "id": "D4-1",
+        "grup": "D",
+        "ronde": 4,
+        "hari": "Kamis, 29 Okt",
+        "jam": "17.10",
+        "a": "LABSRAW",
+        "b": "Nexura Storm (NXR)",
+        "menang": "",
+        "durasi": ""
+      },
+      {
+        "id": "D4-2",
+        "grup": "D",
+        "ronde": 4,
+        "hari": "Kamis, 29 Okt",
+        "jam": "17.10",
+        "a": "SPANSAK",
+        "b": "SUKRING ID",
+        "menang": "",
+        "durasi": ""
+      },
+      {
+        "id": "E4-1",
+        "grup": "E",
+        "ronde": 4,
+        "hari": "Kamis, 29 Okt",
+        "jam": "19.00",
+        "a": "Annajah Esport",
+        "b": "PEGOPAT B",
+        "menang": "",
+        "durasi": ""
+      },
+      {
+        "id": "E4-2",
+        "grup": "E",
+        "ronde": 4,
+        "hari": "Kamis, 29 Okt",
+        "jam": "19.00",
+        "a": "APEX ESPORTS",
+        "b": "Phelas Esport",
+        "menang": "",
+        "durasi": ""
+      },
+      {
+        "id": "F4-1",
+        "grup": "F",
+        "ronde": 4,
+        "hari": "Kamis, 29 Okt",
+        "jam": "19.00",
+        "a": "SMP LABSCIB",
+        "b": "Lucky's Family",
+        "menang": "",
+        "durasi": ""
+      },
+      {
+        "id": "F4-2",
+        "grup": "F",
+        "ronde": 4,
+        "hari": "Kamis, 29 Okt",
+        "jam": "19.00",
+        "a": "BARFORCE",
+        "b": "ACDNT",
+        "menang": "",
+        "durasi": ""
+      },
+      {
+        "id": "A5-1",
+        "grup": "A",
+        "ronde": 5,
+        "hari": "Kamis, 29 Okt",
+        "jam": "19.25",
+        "a": "GANI",
+        "b": "TSADUTA TEAM",
+        "menang": "",
+        "durasi": ""
+      },
+      {
+        "id": "A5-2",
+        "grup": "A",
+        "ronde": 5,
+        "hari": "Kamis, 29 Okt",
+        "jam": "19.25",
+        "a": "Kids spatel",
+        "b": "VOID REBORN",
+        "menang": "",
+        "durasi": ""
+      },
+      {
+        "id": "B5-1",
+        "grup": "B",
+        "ronde": 5,
+        "hari": "Kamis, 29 Okt",
+        "jam": "19.25",
+        "a": "Kangkung rebus",
+        "b": "yllib familia",
+        "menang": "",
+        "durasi": ""
+      },
+      {
+        "id": "B5-2",
+        "grup": "B",
+        "ronde": 5,
+        "hari": "Kamis, 29 Okt",
+        "jam": "19.25",
+        "a": "PEGOPAT A",
+        "b": "PIIS RANGERS",
+        "menang": "",
+        "durasi": ""
+      },
+      {
+        "id": "C5-1",
+        "grup": "C",
+        "ronde": 5,
+        "hari": "Kamis, 29 Okt",
+        "jam": "19.50",
+        "a": "SIEXTY",
+        "b": "JUNIOR",
+        "menang": "",
+        "durasi": ""
+      },
+      {
+        "id": "C5-2",
+        "grup": "C",
+        "ronde": 5,
+        "hari": "Kamis, 29 Okt",
+        "jam": "19.50",
+        "a": "Tim 3 Spenpat Subang",
+        "b": "SMPN 255 JKT",
+        "menang": "",
+        "durasi": ""
+      },
+      {
+        "id": "D5-1",
+        "grup": "D",
+        "ronde": 5,
+        "hari": "Kamis, 29 Okt",
+        "jam": "19.50",
+        "a": "LABSRAW",
+        "b": "SUKRING ID",
+        "menang": "",
+        "durasi": ""
+      },
+      {
+        "id": "D5-2",
+        "grup": "D",
+        "ronde": 5,
+        "hari": "Kamis, 29 Okt",
+        "jam": "19.50",
+        "a": "SPANSAK",
+        "b": "Tim 2 Spenpat Subang",
+        "menang": "",
+        "durasi": ""
+      },
+      {
+        "id": "E5-1",
+        "grup": "E",
+        "ronde": 5,
+        "hari": "Kamis, 29 Okt",
+        "jam": "20.15",
+        "a": "Annajah Esport",
+        "b": "Phelas Esport",
+        "menang": "",
+        "durasi": ""
+      },
+      {
+        "id": "E5-2",
+        "grup": "E",
+        "ronde": 5,
+        "hari": "Kamis, 29 Okt",
+        "jam": "20.15",
+        "a": "APEX ESPORTS",
+        "b": "BMDB _Esport",
+        "menang": "",
+        "durasi": ""
+      },
+      {
+        "id": "F5-1",
+        "grup": "F",
+        "ronde": 5,
+        "hari": "Kamis, 29 Okt",
+        "jam": "20.15",
+        "a": "SMP LABSCIB",
+        "b": "ACDNT",
+        "menang": "",
+        "durasi": ""
+      },
+      {
+        "id": "F5-2",
+        "grup": "F",
+        "ronde": 5,
+        "hari": "Kamis, 29 Okt",
+        "jam": "20.15",
+        "a": "BARFORCE",
+        "b": "Putra One Legion",
+        "menang": "",
+        "durasi": ""
+      }
+    ],
+    "seed_manual": [],
+    "gugur": [
+      {
+        "id": "R16-1",
+        "babak": "Top 16",
+        "hari": "Jumat, 30 Okt",
+        "jam": "13.00",
+        "a": "SEED:1",
+        "b": "SEED:16",
+        "menang": "",
+        "skor": ""
+      },
+      {
+        "id": "R16-2",
+        "babak": "Top 16",
+        "hari": "Jumat, 30 Okt",
+        "jam": "13.00",
+        "a": "SEED:8",
+        "b": "SEED:9",
+        "menang": "",
+        "skor": ""
+      },
+      {
+        "id": "R16-3",
+        "babak": "Top 16",
+        "hari": "Jumat, 30 Okt",
+        "jam": "13.00",
+        "a": "SEED:5",
+        "b": "SEED:12",
+        "menang": "",
+        "skor": ""
+      },
+      {
+        "id": "R16-4",
+        "babak": "Top 16",
+        "hari": "Jumat, 30 Okt",
+        "jam": "16.00",
+        "a": "SEED:4",
+        "b": "SEED:13",
+        "menang": "",
+        "skor": ""
+      },
+      {
+        "id": "R16-5",
+        "babak": "Top 16",
+        "hari": "Jumat, 30 Okt",
+        "jam": "16.00",
+        "a": "SEED:3",
+        "b": "SEED:14",
+        "menang": "",
+        "skor": ""
+      },
+      {
+        "id": "R16-6",
+        "babak": "Top 16",
+        "hari": "Jumat, 30 Okt",
+        "jam": "17.00",
+        "a": "SEED:6",
+        "b": "SEED:11",
+        "menang": "",
+        "skor": ""
+      },
+      {
+        "id": "R16-7",
+        "babak": "Top 16",
+        "hari": "Jumat, 30 Okt",
+        "jam": "17.00",
+        "a": "SEED:7",
+        "b": "SEED:10",
+        "menang": "",
+        "skor": ""
+      },
+      {
+        "id": "R16-8",
+        "babak": "Top 16",
+        "hari": "Jumat, 30 Okt",
+        "jam": "17.00",
+        "a": "SEED:2",
+        "b": "SEED:15",
+        "menang": "",
+        "skor": ""
+      },
+      {
+        "id": "QF-1",
+        "babak": "Quarterfinal",
+        "hari": "Sabtu, 31 Okt",
+        "jam": "09.00",
+        "a": "W:R16-1",
+        "b": "W:R16-2",
+        "menang": "",
+        "skor": ""
+      },
+      {
+        "id": "QF-2",
+        "babak": "Quarterfinal",
+        "hari": "Sabtu, 31 Okt",
+        "jam": "09.00",
+        "a": "W:R16-3",
+        "b": "W:R16-4",
+        "menang": "",
+        "skor": ""
+      },
+      {
+        "id": "QF-3",
+        "babak": "Quarterfinal",
+        "hari": "Sabtu, 31 Okt",
+        "jam": "09.00",
+        "a": "W:R16-5",
+        "b": "W:R16-6",
+        "menang": "",
+        "skor": ""
+      },
+      {
+        "id": "QF-4",
+        "babak": "Quarterfinal",
+        "hari": "Sabtu, 31 Okt",
+        "jam": "09.00",
+        "a": "W:R16-7",
+        "b": "W:R16-8",
+        "menang": "",
+        "skor": ""
+      },
+      {
+        "id": "SF-1",
+        "babak": "Semifinal",
+        "hari": "Sabtu, 31 Okt",
+        "jam": "10.00",
+        "a": "W:QF-1",
+        "b": "W:QF-2",
+        "menang": "",
+        "skor": ""
+      },
+      {
+        "id": "SF-2",
+        "babak": "Semifinal",
+        "hari": "Sabtu, 31 Okt",
+        "jam": "11.00",
+        "a": "W:QF-3",
+        "b": "W:QF-4",
+        "menang": "",
+        "skor": ""
+      },
+      {
+        "id": "J3",
+        "babak": "Juara 3",
+        "hari": "Sabtu, 31 Okt",
+        "jam": "15.00",
+        "a": "L:SF-1",
+        "b": "L:SF-2",
+        "menang": "",
+        "skor": ""
+      },
+      {
+        "id": "GF",
+        "babak": "Grand Final",
+        "hari": "Minggu, 1 Nov · JICC",
+        "jam": "10.00",
+        "a": "W:SF-1",
+        "b": "W:SF-2",
+        "menang": "",
+        "skor": ""
+      }
+    ]
   },
-  "Tim 1 Spenpat Subang": {
-   "sekolah": "SMPN 4 Subang",
-   "kota": "Subang",
-   "jenjang": "SMP"
-  },
-  "Kids spatel": {
-   "sekolah": "SMP Telkom Purwokerto",
-   "kota": "Banyumas",
-   "jenjang": "SMP"
-  },
-  "VOID REBORN": {
-   "sekolah": "SMP Fullday Al-Muhajirin",
-   "kota": "Purwakarta",
-   "jenjang": "SMP"
-  },
-  "Kangkung rebus": {
-   "sekolah": "SMPN 233 Jakarta",
-   "kota": "Jakarta Timur",
-   "jenjang": "SMP"
-  },
-  "yllib familia": {
-   "sekolah": "SMPK Mater Dei Pamulang",
-   "kota": "Tangerang Selatan",
-   "jenjang": "SMP"
-  },
-  "BMDB_Esport Tim 2": {
-   "sekolah": "SMP Budi Mulia Dua Bintaro",
-   "kota": "Tangerang Selatan",
-   "jenjang": "SMP"
-  },
-  "PEGOPAT A": {
-   "sekolah": "SMPN 154 Jakarta",
-   "kota": "Jakarta Selatan",
-   "jenjang": "SMP"
-  },
-  "PIIS RANGERS": {
-   "sekolah": "SMP Permata Insani",
-   "kota": "Kab. Tangerang",
-   "jenjang": "SMP"
-  },
-  "SIEXTY": {
-   "sekolah": "SMPN 118 Jakarta",
-   "kota": "Jakarta Pusat",
-   "jenjang": "SMP"
-  },
-  "JUNIOR": {
-   "sekolah": "SMPN 1 Cisalak",
-   "kota": "Subang",
-   "jenjang": "SMP"
-  },
-  "BTR LIBELSZ": {
-   "sekolah": "SMPN 15 Kota Bogor",
-   "kota": "Kota Bogor",
-   "jenjang": "SMP"
-  },
-  "Tim 3 Spenpat Subang": {
-   "sekolah": "SMPN 4 Subang",
-   "kota": "Subang",
-   "jenjang": "SMP"
-  },
-  "SMPN 255 JKT": {
-   "sekolah": "SMPN 255 Jakarta",
-   "kota": "Jakarta Timur",
-   "jenjang": "SMP"
-  },
-  "LABSRAW": {
-   "sekolah": "SMP Labschool Jakarta",
-   "kota": "Jakarta Timur",
-   "jenjang": "SMP"
-  },
-  "SUKRING ID": {
-   "sekolah": "SMPN 1 Limpung",
-   "kota": "Batang",
-   "jenjang": "SMP"
-  },
-  "Nexura Storm (NXR)": {
-   "sekolah": "SMPS 2 Al-Muhajirin",
-   "kota": "Purwakarta",
-   "jenjang": "SMP"
-  },
-  "SPANSAK": {
-   "sekolah": "SMPN 1 Cisalak",
-   "kota": "Subang",
-   "jenjang": "SMP"
-  },
-  "Tim 2 Spenpat Subang": {
-   "sekolah": "SMPN 4 Subang",
-   "kota": "Subang",
-   "jenjang": "SMP"
-  },
-  "Annajah Esport": {
-   "sekolah": "SMP Islam Annajah",
-   "kota": "Jakarta Selatan",
-   "jenjang": "SMP"
-  },
-  "Phelas Esport": {
-   "sekolah": "SMP PGRI 12 Bogor",
-   "kota": "Kota Bogor",
-   "jenjang": "SMP"
-  },
-  "PEGOPAT B": {
-   "sekolah": "SMPN 154 Jakarta",
-   "kota": "Jakarta Selatan",
-   "jenjang": "SMP"
-  },
-  "APEX ESPORTS": {
-   "sekolah": "SMPN 15 Kota Bogor",
-   "kota": "Kota Bogor",
-   "jenjang": "SMP"
-  },
-  "BMDB _Esport": {
-   "sekolah": "SMP Budi Mulia Dua Bintaro",
-   "kota": "Tangerang Selatan",
-   "jenjang": "SMP"
-  },
-  "SMP LABSCIB": {
-   "sekolah": "SMP Labschool Cibubur",
-   "kota": "Kota Bekasi",
-   "jenjang": "SMP"
-  },
-  "ACDNT": {
-   "sekolah": "SMP St. Bellarminus Bekasi",
-   "kota": "Bekasi",
-   "jenjang": "SMP"
-  },
-  "Lucky's Family": {
-   "sekolah": "SMPK Mater Dei Pamulang",
-   "kota": "Tangerang Selatan",
-   "jenjang": "SMP"
-  },
-  "BARFORCE": {
-   "sekolah": "MTsN 44 Jakarta",
-   "kota": "Jakarta Timur",
-   "jenjang": "SMP"
-  },
-  "Putra One Legion": {
-   "sekolah": "SMP Putra 1",
-   "kota": "Jakarta Timur",
-   "jenjang": "SMP"
-  },
-  "PJ CELESTIX": {
-   "sekolah": "SMK Pembangunan Jaya – YAKAPI",
-   "kota": "Jakarta Selatan",
-   "jenjang": "SMA"
-  },
-  "ENEFES": {
-   "sekolah": "SMA Nurul Fikri Boarding School Serang",
-   "kota": "Kab. Serang",
-   "jenjang": "SMA"
-  },
-  "SMADA esport": {
-   "sekolah": "SMAN 2 Toboali",
-   "kota": "Bangka Selatan",
-   "jenjang": "SMA"
-  },
-  "UBUL TEAM": {
-   "sekolah": "SMA IT Insan Cendekia Madani",
-   "kota": "Kab. Bogor",
-   "jenjang": "SMA"
-  },
-  "DEWA": {
-   "sekolah": "SMA IT Insan Cendekia Madani",
-   "kota": "Kab. Bogor",
-   "jenjang": "SMA"
-  },
-  "SMKN 17 JAKARTA": {
-   "sekolah": "SMKN 17 Jakarta",
-   "kota": "Jakarta Barat",
-   "jenjang": "SMA"
-  },
-  "SMA Putra 1 Excellence": {
-   "sekolah": "SMA Putra 1",
-   "kota": "Jakarta Timur",
-   "jenjang": "SMA"
-  },
-  "SMA 1 PSKD": {
-   "sekolah": "SMA 1 PSKD",
-   "kota": "Jakarta Pusat",
-   "jenjang": "SMA"
-  },
-  "RTG READY TO GLORY": {
-   "sekolah": "SMA Qur'an Insan Pratama",
-   "kota": "Kab. Tangerang",
-   "jenjang": "SMA"
+  "sma": {
+    "match": [
+      {
+        "id": "PI",
+        "bracket": "upper",
+        "babak": "Play-in",
+        "hari": "Jumat, 30 Okt",
+        "jam": "13.00",
+        "a": "SMA 1 PSKD",
+        "b": "RTG READY TO GLORY",
+        "menang": "",
+        "skor": ""
+      },
+      {
+        "id": "UR1-1",
+        "bracket": "upper",
+        "babak": "Upper R1",
+        "hari": "Jumat, 30 Okt",
+        "jam": "14.00",
+        "a": "SMKN 17 JAKARTA",
+        "b": "W:PI",
+        "menang": "",
+        "skor": ""
+      },
+      {
+        "id": "UR1-2",
+        "bracket": "upper",
+        "babak": "Upper R1",
+        "hari": "Jumat, 30 Okt",
+        "jam": "14.00",
+        "a": "ENEFES",
+        "b": "UBUL TEAM",
+        "menang": "",
+        "skor": ""
+      },
+      {
+        "id": "UR1-3",
+        "bracket": "upper",
+        "babak": "Upper R1",
+        "hari": "Jumat, 30 Okt",
+        "jam": "14.00",
+        "a": "SMADA esport",
+        "b": "SMA Putra 1 Excellence",
+        "menang": "",
+        "skor": ""
+      },
+      {
+        "id": "UR1-4",
+        "bracket": "upper",
+        "babak": "Upper R1",
+        "hari": "Jumat, 30 Okt",
+        "jam": "14.00",
+        "a": "PJ CELESTIX",
+        "b": "DEWA",
+        "menang": "",
+        "skor": ""
+      },
+      {
+        "id": "USF-1",
+        "bracket": "upper",
+        "babak": "Upper Semifinal",
+        "hari": "Jumat, 30 Okt",
+        "jam": "15.00",
+        "a": "W:UR1-1",
+        "b": "W:UR1-2",
+        "menang": "",
+        "skor": ""
+      },
+      {
+        "id": "USF-2",
+        "bracket": "upper",
+        "babak": "Upper Semifinal",
+        "hari": "Jumat, 30 Okt",
+        "jam": "15.00",
+        "a": "W:UR1-3",
+        "b": "W:UR1-4",
+        "menang": "",
+        "skor": ""
+      },
+      {
+        "id": "UF",
+        "bracket": "upper",
+        "babak": "Upper Final",
+        "hari": "Sabtu, 31 Okt",
+        "jam": "13.00",
+        "a": "W:USF-1",
+        "b": "W:USF-2",
+        "menang": "",
+        "skor": ""
+      },
+      {
+        "id": "LR1-1",
+        "bracket": "lower",
+        "babak": "Lower R1",
+        "hari": "Jumat, 30 Okt",
+        "jam": "15.00",
+        "a": "L:UR1-1",
+        "b": "L:UR1-2",
+        "menang": "",
+        "skor": ""
+      },
+      {
+        "id": "LR1-2",
+        "bracket": "lower",
+        "babak": "Lower R1",
+        "hari": "Jumat, 30 Okt",
+        "jam": "15.00",
+        "a": "L:UR1-3",
+        "b": "L:UR1-4",
+        "menang": "",
+        "skor": ""
+      },
+      {
+        "id": "LR2-1",
+        "bracket": "lower",
+        "babak": "Lower R2",
+        "hari": "Jumat, 30 Okt",
+        "jam": "16.00",
+        "a": "W:LR1-1",
+        "b": "L:USF-2",
+        "menang": "",
+        "skor": ""
+      },
+      {
+        "id": "LR2-2",
+        "bracket": "lower",
+        "babak": "Lower R2",
+        "hari": "Jumat, 30 Okt",
+        "jam": "16.00",
+        "a": "W:LR1-2",
+        "b": "L:USF-1",
+        "menang": "",
+        "skor": ""
+      },
+      {
+        "id": "LSF",
+        "bracket": "lower",
+        "babak": "Lower Semifinal",
+        "hari": "Sabtu, 31 Okt",
+        "jam": "14.00",
+        "a": "W:LR2-1",
+        "b": "W:LR2-2",
+        "menang": "",
+        "skor": ""
+      },
+      {
+        "id": "LF",
+        "bracket": "lower",
+        "babak": "Lower Final",
+        "hari": "Sabtu, 31 Okt",
+        "jam": "16.00",
+        "a": "W:LSF",
+        "b": "L:UF",
+        "menang": "",
+        "skor": ""
+      },
+      {
+        "id": "GF",
+        "bracket": "final",
+        "babak": "Grand Final",
+        "hari": "Minggu, 1 Nov · JICC",
+        "jam": "10.00",
+        "a": "W:UF",
+        "b": "W:LF",
+        "menang": "",
+        "skor": ""
+      }
+    ]
   }
- },
- "smp": {
-  "grup": {
-   "A": [
-    "GANI",
-    "TSADUTA TEAM",
-    "Tim 1 Spenpat Subang",
-    "Kids spatel",
-    "VOID REBORN"
-   ],
-   "B": [
-    "Kangkung rebus",
-    "yllib familia",
-    "BMDB_Esport Tim 2",
-    "PEGOPAT A",
-    "PIIS RANGERS"
-   ],
-   "C": [
-    "SIEXTY",
-    "JUNIOR",
-    "BTR LIBELSZ",
-    "Tim 3 Spenpat Subang",
-    "SMPN 255 JKT"
-   ],
-   "D": [
-    "LABSRAW",
-    "SUKRING ID",
-    "Nexura Storm (NXR)",
-    "SPANSAK",
-    "Tim 2 Spenpat Subang"
-   ],
-   "E": [
-    "Annajah Esport",
-    "Phelas Esport",
-    "PEGOPAT B",
-    "APEX ESPORTS",
-    "BMDB _Esport"
-   ],
-   "F": [
-    "SMP LABSCIB",
-    "ACDNT",
-    "Lucky's Family",
-    "BARFORCE",
-    "Putra One Legion"
-   ]
-  },
-  "match": [
-   {
-    "id": "A1-1",
-    "grup": "A",
-    "ronde": 1,
-    "hari": "Kamis, 29 Okt",
-    "jam": "13.00",
-    "a": "TSADUTA TEAM",
-    "b": "VOID REBORN",
-    "menang": "",
-    "durasi": ""
-   },
-   {
-    "id": "A1-2",
-    "grup": "A",
-    "ronde": 1,
-    "hari": "Kamis, 29 Okt",
-    "jam": "13.00",
-    "a": "Tim 1 Spenpat Subang",
-    "b": "Kids spatel",
-    "menang": "",
-    "durasi": ""
-   },
-   {
-    "id": "B1-1",
-    "grup": "B",
-    "ronde": 1,
-    "hari": "Kamis, 29 Okt",
-    "jam": "13.00",
-    "a": "yllib familia",
-    "b": "PIIS RANGERS",
-    "menang": "",
-    "durasi": ""
-   },
-   {
-    "id": "B1-2",
-    "grup": "B",
-    "ronde": 1,
-    "hari": "Kamis, 29 Okt",
-    "jam": "13.00",
-    "a": "BMDB_Esport Tim 2",
-    "b": "PEGOPAT A",
-    "menang": "",
-    "durasi": ""
-   },
-   {
-    "id": "C1-1",
-    "grup": "C",
-    "ronde": 1,
-    "hari": "Kamis, 29 Okt",
-    "jam": "13.25",
-    "a": "JUNIOR",
-    "b": "SMPN 255 JKT",
-    "menang": "",
-    "durasi": ""
-   },
-   {
-    "id": "C1-2",
-    "grup": "C",
-    "ronde": 1,
-    "hari": "Kamis, 29 Okt",
-    "jam": "13.25",
-    "a": "BTR LIBELSZ",
-    "b": "Tim 3 Spenpat Subang",
-    "menang": "",
-    "durasi": ""
-   },
-   {
-    "id": "D1-1",
-    "grup": "D",
-    "ronde": 1,
-    "hari": "Kamis, 29 Okt",
-    "jam": "13.25",
-    "a": "SUKRING ID",
-    "b": "Tim 2 Spenpat Subang",
-    "menang": "",
-    "durasi": ""
-   },
-   {
-    "id": "D1-2",
-    "grup": "D",
-    "ronde": 1,
-    "hari": "Kamis, 29 Okt",
-    "jam": "13.25",
-    "a": "Nexura Storm (NXR)",
-    "b": "SPANSAK",
-    "menang": "",
-    "durasi": ""
-   },
-   {
-    "id": "E1-1",
-    "grup": "E",
-    "ronde": 1,
-    "hari": "Kamis, 29 Okt",
-    "jam": "13.50",
-    "a": "Phelas Esport",
-    "b": "BMDB _Esport",
-    "menang": "",
-    "durasi": ""
-   },
-   {
-    "id": "E1-2",
-    "grup": "E",
-    "ronde": 1,
-    "hari": "Kamis, 29 Okt",
-    "jam": "13.50",
-    "a": "PEGOPAT B",
-    "b": "APEX ESPORTS",
-    "menang": "",
-    "durasi": ""
-   },
-   {
-    "id": "F1-1",
-    "grup": "F",
-    "ronde": 1,
-    "hari": "Kamis, 29 Okt",
-    "jam": "13.50",
-    "a": "ACDNT",
-    "b": "Putra One Legion",
-    "menang": "",
-    "durasi": ""
-   },
-   {
-    "id": "F1-2",
-    "grup": "F",
-    "ronde": 1,
-    "hari": "Kamis, 29 Okt",
-    "jam": "13.50",
-    "a": "Lucky's Family",
-    "b": "BARFORCE",
-    "menang": "",
-    "durasi": ""
-   },
-   {
-    "id": "A2-1",
-    "grup": "A",
-    "ronde": 2,
-    "hari": "Kamis, 29 Okt",
-    "jam": "14.15",
-    "a": "GANI",
-    "b": "VOID REBORN",
-    "menang": "",
-    "durasi": ""
-   },
-   {
-    "id": "A2-2",
-    "grup": "A",
-    "ronde": 2,
-    "hari": "Kamis, 29 Okt",
-    "jam": "14.15",
-    "a": "TSADUTA TEAM",
-    "b": "Tim 1 Spenpat Subang",
-    "menang": "",
-    "durasi": ""
-   },
-   {
-    "id": "B2-1",
-    "grup": "B",
-    "ronde": 2,
-    "hari": "Kamis, 29 Okt",
-    "jam": "14.15",
-    "a": "Kangkung rebus",
-    "b": "PIIS RANGERS",
-    "menang": "",
-    "durasi": ""
-   },
-   {
-    "id": "B2-2",
-    "grup": "B",
-    "ronde": 2,
-    "hari": "Kamis, 29 Okt",
-    "jam": "14.15",
-    "a": "yllib familia",
-    "b": "BMDB_Esport Tim 2",
-    "menang": "",
-    "durasi": ""
-   },
-   {
-    "id": "C2-1",
-    "grup": "C",
-    "ronde": 2,
-    "hari": "Kamis, 29 Okt",
-    "jam": "14.40",
-    "a": "SIEXTY",
-    "b": "SMPN 255 JKT",
-    "menang": "",
-    "durasi": ""
-   },
-   {
-    "id": "C2-2",
-    "grup": "C",
-    "ronde": 2,
-    "hari": "Kamis, 29 Okt",
-    "jam": "14.40",
-    "a": "JUNIOR",
-    "b": "BTR LIBELSZ",
-    "menang": "",
-    "durasi": ""
-   },
-   {
-    "id": "D2-1",
-    "grup": "D",
-    "ronde": 2,
-    "hari": "Kamis, 29 Okt",
-    "jam": "14.40",
-    "a": "LABSRAW",
-    "b": "Tim 2 Spenpat Subang",
-    "menang": "",
-    "durasi": ""
-   },
-   {
-    "id": "D2-2",
-    "grup": "D",
-    "ronde": 2,
-    "hari": "Kamis, 29 Okt",
-    "jam": "14.40",
-    "a": "SUKRING ID",
-    "b": "Nexura Storm (NXR)",
-    "menang": "",
-    "durasi": ""
-   },
-   {
-    "id": "E2-1",
-    "grup": "E",
-    "ronde": 2,
-    "hari": "Kamis, 29 Okt",
-    "jam": "15.05",
-    "a": "Annajah Esport",
-    "b": "BMDB _Esport",
-    "menang": "",
-    "durasi": ""
-   },
-   {
-    "id": "E2-2",
-    "grup": "E",
-    "ronde": 2,
-    "hari": "Kamis, 29 Okt",
-    "jam": "15.05",
-    "a": "Phelas Esport",
-    "b": "PEGOPAT B",
-    "menang": "",
-    "durasi": ""
-   },
-   {
-    "id": "F2-1",
-    "grup": "F",
-    "ronde": 2,
-    "hari": "Kamis, 29 Okt",
-    "jam": "15.05",
-    "a": "SMP LABSCIB",
-    "b": "Putra One Legion",
-    "menang": "",
-    "durasi": ""
-   },
-   {
-    "id": "F2-2",
-    "grup": "F",
-    "ronde": 2,
-    "hari": "Kamis, 29 Okt",
-    "jam": "15.05",
-    "a": "ACDNT",
-    "b": "Lucky's Family",
-    "menang": "",
-    "durasi": ""
-   },
-   {
-    "id": "A3-1",
-    "grup": "A",
-    "ronde": 3,
-    "hari": "Kamis, 29 Okt",
-    "jam": "15.30",
-    "a": "GANI",
-    "b": "Kids spatel",
-    "menang": "",
-    "durasi": ""
-   },
-   {
-    "id": "A3-2",
-    "grup": "A",
-    "ronde": 3,
-    "hari": "Kamis, 29 Okt",
-    "jam": "15.30",
-    "a": "VOID REBORN",
-    "b": "Tim 1 Spenpat Subang",
-    "menang": "",
-    "durasi": ""
-   },
-   {
-    "id": "B3-1",
-    "grup": "B",
-    "ronde": 3,
-    "hari": "Kamis, 29 Okt",
-    "jam": "15.30",
-    "a": "Kangkung rebus",
-    "b": "PEGOPAT A",
-    "menang": "",
-    "durasi": ""
-   },
-   {
-    "id": "B3-2",
-    "grup": "B",
-    "ronde": 3,
-    "hari": "Kamis, 29 Okt",
-    "jam": "15.30",
-    "a": "PIIS RANGERS",
-    "b": "BMDB_Esport Tim 2",
-    "menang": "",
-    "durasi": ""
-   },
-   {
-    "id": "C3-1",
-    "grup": "C",
-    "ronde": 3,
-    "hari": "Kamis, 29 Okt",
-    "jam": "15.55",
-    "a": "SIEXTY",
-    "b": "Tim 3 Spenpat Subang",
-    "menang": "",
-    "durasi": ""
-   },
-   {
-    "id": "C3-2",
-    "grup": "C",
-    "ronde": 3,
-    "hari": "Kamis, 29 Okt",
-    "jam": "15.55",
-    "a": "SMPN 255 JKT",
-    "b": "BTR LIBELSZ",
-    "menang": "",
-    "durasi": ""
-   },
-   {
-    "id": "D3-1",
-    "grup": "D",
-    "ronde": 3,
-    "hari": "Kamis, 29 Okt",
-    "jam": "15.55",
-    "a": "LABSRAW",
-    "b": "SPANSAK",
-    "menang": "",
-    "durasi": ""
-   },
-   {
-    "id": "D3-2",
-    "grup": "D",
-    "ronde": 3,
-    "hari": "Kamis, 29 Okt",
-    "jam": "15.55",
-    "a": "Tim 2 Spenpat Subang",
-    "b": "Nexura Storm (NXR)",
-    "menang": "",
-    "durasi": ""
-   },
-   {
-    "id": "E3-1",
-    "grup": "E",
-    "ronde": 3,
-    "hari": "Kamis, 29 Okt",
-    "jam": "16.20",
-    "a": "Annajah Esport",
-    "b": "APEX ESPORTS",
-    "menang": "",
-    "durasi": ""
-   },
-   {
-    "id": "E3-2",
-    "grup": "E",
-    "ronde": 3,
-    "hari": "Kamis, 29 Okt",
-    "jam": "16.20",
-    "a": "BMDB _Esport",
-    "b": "PEGOPAT B",
-    "menang": "",
-    "durasi": ""
-   },
-   {
-    "id": "F3-1",
-    "grup": "F",
-    "ronde": 3,
-    "hari": "Kamis, 29 Okt",
-    "jam": "16.20",
-    "a": "SMP LABSCIB",
-    "b": "BARFORCE",
-    "menang": "",
-    "durasi": ""
-   },
-   {
-    "id": "F3-2",
-    "grup": "F",
-    "ronde": 3,
-    "hari": "Kamis, 29 Okt",
-    "jam": "16.20",
-    "a": "Putra One Legion",
-    "b": "Lucky's Family",
-    "menang": "",
-    "durasi": ""
-   },
-   {
-    "id": "A4-1",
-    "grup": "A",
-    "ronde": 4,
-    "hari": "Kamis, 29 Okt",
-    "jam": "16.45",
-    "a": "GANI",
-    "b": "Tim 1 Spenpat Subang",
-    "menang": "",
-    "durasi": ""
-   },
-   {
-    "id": "A4-2",
-    "grup": "A",
-    "ronde": 4,
-    "hari": "Kamis, 29 Okt",
-    "jam": "16.45",
-    "a": "Kids spatel",
-    "b": "TSADUTA TEAM",
-    "menang": "",
-    "durasi": ""
-   },
-   {
-    "id": "B4-1",
-    "grup": "B",
-    "ronde": 4,
-    "hari": "Kamis, 29 Okt",
-    "jam": "16.45",
-    "a": "Kangkung rebus",
-    "b": "BMDB_Esport Tim 2",
-    "menang": "",
-    "durasi": ""
-   },
-   {
-    "id": "B4-2",
-    "grup": "B",
-    "ronde": 4,
-    "hari": "Kamis, 29 Okt",
-    "jam": "16.45",
-    "a": "PEGOPAT A",
-    "b": "yllib familia",
-    "menang": "",
-    "durasi": ""
-   },
-   {
-    "id": "C4-1",
-    "grup": "C",
-    "ronde": 4,
-    "hari": "Kamis, 29 Okt",
-    "jam": "17.10",
-    "a": "SIEXTY",
-    "b": "BTR LIBELSZ",
-    "menang": "",
-    "durasi": ""
-   },
-   {
-    "id": "C4-2",
-    "grup": "C",
-    "ronde": 4,
-    "hari": "Kamis, 29 Okt",
-    "jam": "17.10",
-    "a": "Tim 3 Spenpat Subang",
-    "b": "JUNIOR",
-    "menang": "",
-    "durasi": ""
-   },
-   {
-    "id": "D4-1",
-    "grup": "D",
-    "ronde": 4,
-    "hari": "Kamis, 29 Okt",
-    "jam": "17.10",
-    "a": "LABSRAW",
-    "b": "Nexura Storm (NXR)",
-    "menang": "",
-    "durasi": ""
-   },
-   {
-    "id": "D4-2",
-    "grup": "D",
-    "ronde": 4,
-    "hari": "Kamis, 29 Okt",
-    "jam": "17.10",
-    "a": "SPANSAK",
-    "b": "SUKRING ID",
-    "menang": "",
-    "durasi": ""
-   },
-   {
-    "id": "E4-1",
-    "grup": "E",
-    "ronde": 4,
-    "hari": "Kamis, 29 Okt",
-    "jam": "19.00",
-    "a": "Annajah Esport",
-    "b": "PEGOPAT B",
-    "menang": "",
-    "durasi": ""
-   },
-   {
-    "id": "E4-2",
-    "grup": "E",
-    "ronde": 4,
-    "hari": "Kamis, 29 Okt",
-    "jam": "19.00",
-    "a": "APEX ESPORTS",
-    "b": "Phelas Esport",
-    "menang": "",
-    "durasi": ""
-   },
-   {
-    "id": "F4-1",
-    "grup": "F",
-    "ronde": 4,
-    "hari": "Kamis, 29 Okt",
-    "jam": "19.00",
-    "a": "SMP LABSCIB",
-    "b": "Lucky's Family",
-    "menang": "",
-    "durasi": ""
-   },
-   {
-    "id": "F4-2",
-    "grup": "F",
-    "ronde": 4,
-    "hari": "Kamis, 29 Okt",
-    "jam": "19.00",
-    "a": "BARFORCE",
-    "b": "ACDNT",
-    "menang": "",
-    "durasi": ""
-   },
-   {
-    "id": "A5-1",
-    "grup": "A",
-    "ronde": 5,
-    "hari": "Kamis, 29 Okt",
-    "jam": "19.25",
-    "a": "GANI",
-    "b": "TSADUTA TEAM",
-    "menang": "",
-    "durasi": ""
-   },
-   {
-    "id": "A5-2",
-    "grup": "A",
-    "ronde": 5,
-    "hari": "Kamis, 29 Okt",
-    "jam": "19.25",
-    "a": "Kids spatel",
-    "b": "VOID REBORN",
-    "menang": "",
-    "durasi": ""
-   },
-   {
-    "id": "B5-1",
-    "grup": "B",
-    "ronde": 5,
-    "hari": "Kamis, 29 Okt",
-    "jam": "19.25",
-    "a": "Kangkung rebus",
-    "b": "yllib familia",
-    "menang": "",
-    "durasi": ""
-   },
-   {
-    "id": "B5-2",
-    "grup": "B",
-    "ronde": 5,
-    "hari": "Kamis, 29 Okt",
-    "jam": "19.25",
-    "a": "PEGOPAT A",
-    "b": "PIIS RANGERS",
-    "menang": "",
-    "durasi": ""
-   },
-   {
-    "id": "C5-1",
-    "grup": "C",
-    "ronde": 5,
-    "hari": "Kamis, 29 Okt",
-    "jam": "19.50",
-    "a": "SIEXTY",
-    "b": "JUNIOR",
-    "menang": "",
-    "durasi": ""
-   },
-   {
-    "id": "C5-2",
-    "grup": "C",
-    "ronde": 5,
-    "hari": "Kamis, 29 Okt",
-    "jam": "19.50",
-    "a": "Tim 3 Spenpat Subang",
-    "b": "SMPN 255 JKT",
-    "menang": "",
-    "durasi": ""
-   },
-   {
-    "id": "D5-1",
-    "grup": "D",
-    "ronde": 5,
-    "hari": "Kamis, 29 Okt",
-    "jam": "19.50",
-    "a": "LABSRAW",
-    "b": "SUKRING ID",
-    "menang": "",
-    "durasi": ""
-   },
-   {
-    "id": "D5-2",
-    "grup": "D",
-    "ronde": 5,
-    "hari": "Kamis, 29 Okt",
-    "jam": "19.50",
-    "a": "SPANSAK",
-    "b": "Tim 2 Spenpat Subang",
-    "menang": "",
-    "durasi": ""
-   },
-   {
-    "id": "E5-1",
-    "grup": "E",
-    "ronde": 5,
-    "hari": "Kamis, 29 Okt",
-    "jam": "20.15",
-    "a": "Annajah Esport",
-    "b": "Phelas Esport",
-    "menang": "",
-    "durasi": ""
-   },
-   {
-    "id": "E5-2",
-    "grup": "E",
-    "ronde": 5,
-    "hari": "Kamis, 29 Okt",
-    "jam": "20.15",
-    "a": "APEX ESPORTS",
-    "b": "BMDB _Esport",
-    "menang": "",
-    "durasi": ""
-   },
-   {
-    "id": "F5-1",
-    "grup": "F",
-    "ronde": 5,
-    "hari": "Kamis, 29 Okt",
-    "jam": "20.15",
-    "a": "SMP LABSCIB",
-    "b": "ACDNT",
-    "menang": "",
-    "durasi": ""
-   },
-   {
-    "id": "F5-2",
-    "grup": "F",
-    "ronde": 5,
-    "hari": "Kamis, 29 Okt",
-    "jam": "20.15",
-    "a": "BARFORCE",
-    "b": "Putra One Legion",
-    "menang": "",
-    "durasi": ""
-   }
-  ],
-  "seed_manual": [],
-  "gugur": [
-   {
-    "id": "R16-1",
-    "babak": "Top 16",
-    "hari": "Jumat, 30 Okt",
-    "jam": "13.00",
-    "a": "SEED:1",
-    "b": "SEED:16",
-    "menang": "",
-    "skor": ""
-   },
-   {
-    "id": "R16-2",
-    "babak": "Top 16",
-    "hari": "Jumat, 30 Okt",
-    "jam": "13.00",
-    "a": "SEED:8",
-    "b": "SEED:9",
-    "menang": "",
-    "skor": ""
-   },
-   {
-    "id": "R16-3",
-    "babak": "Top 16",
-    "hari": "Jumat, 30 Okt",
-    "jam": "13.00",
-    "a": "SEED:5",
-    "b": "SEED:12",
-    "menang": "",
-    "skor": ""
-   },
-   {
-    "id": "R16-4",
-    "babak": "Top 16",
-    "hari": "Jumat, 30 Okt",
-    "jam": "16.00",
-    "a": "SEED:4",
-    "b": "SEED:13",
-    "menang": "",
-    "skor": ""
-   },
-   {
-    "id": "R16-5",
-    "babak": "Top 16",
-    "hari": "Jumat, 30 Okt",
-    "jam": "16.00",
-    "a": "SEED:3",
-    "b": "SEED:14",
-    "menang": "",
-    "skor": ""
-   },
-   {
-    "id": "R16-6",
-    "babak": "Top 16",
-    "hari": "Jumat, 30 Okt",
-    "jam": "17.00",
-    "a": "SEED:6",
-    "b": "SEED:11",
-    "menang": "",
-    "skor": ""
-   },
-   {
-    "id": "R16-7",
-    "babak": "Top 16",
-    "hari": "Jumat, 30 Okt",
-    "jam": "17.00",
-    "a": "SEED:7",
-    "b": "SEED:10",
-    "menang": "",
-    "skor": ""
-   },
-   {
-    "id": "R16-8",
-    "babak": "Top 16",
-    "hari": "Jumat, 30 Okt",
-    "jam": "17.00",
-    "a": "SEED:2",
-    "b": "SEED:15",
-    "menang": "",
-    "skor": ""
-   },
-   {
-    "id": "QF-1",
-    "babak": "Quarterfinal",
-    "hari": "Sabtu, 31 Okt",
-    "jam": "09.00",
-    "a": "W:R16-1",
-    "b": "W:R16-2",
-    "menang": "",
-    "skor": ""
-   },
-   {
-    "id": "QF-2",
-    "babak": "Quarterfinal",
-    "hari": "Sabtu, 31 Okt",
-    "jam": "09.00",
-    "a": "W:R16-3",
-    "b": "W:R16-4",
-    "menang": "",
-    "skor": ""
-   },
-   {
-    "id": "QF-3",
-    "babak": "Quarterfinal",
-    "hari": "Sabtu, 31 Okt",
-    "jam": "09.00",
-    "a": "W:R16-5",
-    "b": "W:R16-6",
-    "menang": "",
-    "skor": ""
-   },
-   {
-    "id": "QF-4",
-    "babak": "Quarterfinal",
-    "hari": "Sabtu, 31 Okt",
-    "jam": "09.00",
-    "a": "W:R16-7",
-    "b": "W:R16-8",
-    "menang": "",
-    "skor": ""
-   },
-   {
-    "id": "SF-1",
-    "babak": "Semifinal",
-    "hari": "Sabtu, 31 Okt",
-    "jam": "10.00",
-    "a": "W:QF-1",
-    "b": "W:QF-2",
-    "menang": "",
-    "skor": ""
-   },
-   {
-    "id": "SF-2",
-    "babak": "Semifinal",
-    "hari": "Sabtu, 31 Okt",
-    "jam": "11.00",
-    "a": "W:QF-3",
-    "b": "W:QF-4",
-    "menang": "",
-    "skor": ""
-   },
-   {
-    "id": "J3",
-    "babak": "Juara 3",
-    "hari": "Sabtu, 31 Okt",
-    "jam": "15.00",
-    "a": "L:SF-1",
-    "b": "L:SF-2",
-    "menang": "",
-    "skor": ""
-   },
-   {
-    "id": "GF",
-    "babak": "Grand Final",
-    "hari": "Minggu, 1 Nov · JICC",
-    "jam": "10.00",
-    "a": "W:SF-1",
-    "b": "W:SF-2",
-    "menang": "",
-    "skor": ""
-   }
-  ]
- },
- "sma": {
-  "match": [
-   {
-    "id": "PI",
-    "bracket": "upper",
-    "babak": "Play-in",
-    "hari": "Jumat, 30 Okt",
-    "jam": "13.00",
-    "a": "SMA 1 PSKD",
-    "b": "RTG READY TO GLORY",
-    "menang": "",
-    "skor": ""
-   },
-   {
-    "id": "UR1-1",
-    "bracket": "upper",
-    "babak": "Upper R1",
-    "hari": "Jumat, 30 Okt",
-    "jam": "14.00",
-    "a": "SMKN 17 JAKARTA",
-    "b": "W:PI",
-    "menang": "",
-    "skor": ""
-   },
-   {
-    "id": "UR1-2",
-    "bracket": "upper",
-    "babak": "Upper R1",
-    "hari": "Jumat, 30 Okt",
-    "jam": "14.00",
-    "a": "ENEFES",
-    "b": "UBUL TEAM",
-    "menang": "",
-    "skor": ""
-   },
-   {
-    "id": "UR1-3",
-    "bracket": "upper",
-    "babak": "Upper R1",
-    "hari": "Jumat, 30 Okt",
-    "jam": "14.00",
-    "a": "SMADA esport",
-    "b": "SMA Putra 1 Excellence",
-    "menang": "",
-    "skor": ""
-   },
-   {
-    "id": "UR1-4",
-    "bracket": "upper",
-    "babak": "Upper R1",
-    "hari": "Jumat, 30 Okt",
-    "jam": "14.00",
-    "a": "PJ CELESTIX",
-    "b": "DEWA",
-    "menang": "",
-    "skor": ""
-   },
-   {
-    "id": "USF-1",
-    "bracket": "upper",
-    "babak": "Upper Semifinal",
-    "hari": "Jumat, 30 Okt",
-    "jam": "15.00",
-    "a": "W:UR1-1",
-    "b": "W:UR1-2",
-    "menang": "",
-    "skor": ""
-   },
-   {
-    "id": "USF-2",
-    "bracket": "upper",
-    "babak": "Upper Semifinal",
-    "hari": "Jumat, 30 Okt",
-    "jam": "15.00",
-    "a": "W:UR1-3",
-    "b": "W:UR1-4",
-    "menang": "",
-    "skor": ""
-   },
-   {
-    "id": "UF",
-    "bracket": "upper",
-    "babak": "Upper Final",
-    "hari": "Sabtu, 31 Okt",
-    "jam": "13.00",
-    "a": "W:USF-1",
-    "b": "W:USF-2",
-    "menang": "",
-    "skor": ""
-   },
-   {
-    "id": "LR1-1",
-    "bracket": "lower",
-    "babak": "Lower R1",
-    "hari": "Jumat, 30 Okt",
-    "jam": "15.00",
-    "a": "L:UR1-1",
-    "b": "L:UR1-2",
-    "menang": "",
-    "skor": ""
-   },
-   {
-    "id": "LR1-2",
-    "bracket": "lower",
-    "babak": "Lower R1",
-    "hari": "Jumat, 30 Okt",
-    "jam": "15.00",
-    "a": "L:UR1-3",
-    "b": "L:UR1-4",
-    "menang": "",
-    "skor": ""
-   },
-   {
-    "id": "LR2-1",
-    "bracket": "lower",
-    "babak": "Lower R2",
-    "hari": "Jumat, 30 Okt",
-    "jam": "16.00",
-    "a": "W:LR1-1",
-    "b": "L:USF-2",
-    "menang": "",
-    "skor": ""
-   },
-   {
-    "id": "LR2-2",
-    "bracket": "lower",
-    "babak": "Lower R2",
-    "hari": "Jumat, 30 Okt",
-    "jam": "16.00",
-    "a": "W:LR1-2",
-    "b": "L:USF-1",
-    "menang": "",
-    "skor": ""
-   },
-   {
-    "id": "LSF",
-    "bracket": "lower",
-    "babak": "Lower Semifinal",
-    "hari": "Sabtu, 31 Okt",
-    "jam": "14.00",
-    "a": "W:LR2-1",
-    "b": "W:LR2-2",
-    "menang": "",
-    "skor": ""
-   },
-   {
-    "id": "LF",
-    "bracket": "lower",
-    "babak": "Lower Final",
-    "hari": "Sabtu, 31 Okt",
-    "jam": "16.00",
-    "a": "W:LSF",
-    "b": "L:UF",
-    "menang": "",
-    "skor": ""
-   },
-   {
-    "id": "GF",
-    "bracket": "final",
-    "babak": "Grand Final",
-    "hari": "Minggu, 1 Nov · JICC",
-    "jam": "10.00",
-    "a": "W:UF",
-    "b": "W:LF",
-    "menang": "",
-    "skor": ""
-   }
-  ]
- }
 }
