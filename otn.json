@@ -869,8 +869,8 @@
         "jam": "20.15",
         "a": "Annajah Esport",
         "b": "Phelas Esport",
-        "menang": "",
-        "durasi": ""
+        "menang": "b",
+        "durasi": "11:30"
       },
       {
         "id": "E5-2",
@@ -902,8 +902,8 @@
         "jam": "20.15",
         "a": "Putra One Legion",
         "b": "BARFORCE",
-        "menang": "",
-        "durasi": ""
+        "menang": "a",
+        "durasi": "10:39"
       }
     ],
     "seed_manual": [],
