@@ -127,7 +127,7 @@
    "kota": "Tangerang Selatan",
    "jenjang": "SMP"
   },
-  "Labschool Cibubur": {
+  "SMP LABSCIB": {
    "sekolah": "SMP Labschool Cibubur",
    "kota": "Kota Bekasi",
    "jenjang": "SMP"
@@ -192,7 +192,7 @@
    "kota": "Jakarta Pusat",
    "jenjang": "SMA"
   },
-  "RTG (Ready To Glory)": {
+  "RTG READY TO GLORY": {
    "sekolah": "SMA Qur'an Insan Pratama",
    "kota": "Kab. Tangerang",
    "jenjang": "SMA"
@@ -236,7 +236,7 @@
     "BMDB _Esport"
    ],
    "F": [
-    "Labschool Cibubur",
+    "SMP LABSCIB",
     "ACDNT",
     "Lucky's Family",
     "BARFORCE",
@@ -492,7 +492,7 @@
     "ronde": 2,
     "hari": "Kamis, 29 Okt",
     "jam": "15.05",
-    "a": "Labschool Cibubur",
+    "a": "SMP LABSCIB",
     "b": "Putra One Legion",
     "menang": "",
     "durasi": ""
@@ -624,7 +624,7 @@
     "ronde": 3,
     "hari": "Kamis, 29 Okt",
     "jam": "16.20",
-    "a": "Labschool Cibubur",
+    "a": "SMP LABSCIB",
     "b": "BARFORCE",
     "menang": "",
     "durasi": ""
@@ -756,7 +756,7 @@
     "ronde": 4,
     "hari": "Kamis, 29 Okt",
     "jam": "19.00",
-    "a": "Labschool Cibubur",
+    "a": "SMP LABSCIB",
     "b": "Lucky's Family",
     "menang": "",
     "durasi": ""
@@ -888,7 +888,7 @@
     "ronde": 5,
     "hari": "Kamis, 29 Okt",
     "jam": "20.15",
-    "a": "Labschool Cibubur",
+    "a": "SMP LABSCIB",
     "b": "ACDNT",
     "menang": "",
     "durasi": ""
@@ -1078,7 +1078,7 @@
     "hari": "Jumat, 30 Okt",
     "jam": "13.00",
     "a": "SMA 1 PSKD",
-    "b": "RTG (Ready To Glory)",
+    "b": "RTG READY TO GLORY",
     "menang": "",
     "skor": ""
    },
