@@ -472,8 +472,8 @@
         "jam": "15.05",
         "a": "Annajah Esport",
         "b": "BMDB _Esport",
-        "menang": "",
-        "durasi": ""
+        "menang": "a",
+        "durasi": "13:52"
       },
       {
         "id": "E2-2",
@@ -483,8 +483,8 @@
         "jam": "15.05",
         "a": "Phelas Esport",
         "b": "PEGOPAT B",
-        "menang": "",
-        "durasi": ""
+        "menang": "a",
+        "durasi": "14:42"
       },
       {
         "id": "F2-1",
@@ -558,8 +558,8 @@
         "ronde": 3,
         "hari": "Kamis, 29 Okt",
         "jam": "15.55",
-        "a": "SIEXTY",
-        "b": "Tim 3 Spenpat Subang",
+        "a": "Tim 3 Spenpat Subang",
+        "b": "SIEXTY",
         "menang": "",
         "durasi": ""
       },
@@ -580,8 +580,8 @@
         "ronde": 3,
         "hari": "Kamis, 29 Okt",
         "jam": "15.55",
-        "a": "LABSRAW",
-        "b": "SPANSAK",
+        "a": "SPANSAK",
+        "b": "LABSRAW",
         "menang": "",
         "durasi": ""
       },
@@ -602,8 +602,8 @@
         "ronde": 3,
         "hari": "Kamis, 29 Okt",
         "jam": "16.20",
-        "a": "Annajah Esport",
-        "b": "APEX ESPORTS",
+        "a": "APEX ESPORTS",
+        "b": "Annajah Esport",
         "menang": "",
         "durasi": ""
       },
@@ -624,8 +624,8 @@
         "ronde": 3,
         "hari": "Kamis, 29 Okt",
         "jam": "16.20",
-        "a": "SMP LABSCIB",
-        "b": "BARFORCE",
+        "a": "BARFORCE",
+        "b": "SMP LABSCIB",
         "menang": "",
         "durasi": ""
       },
@@ -646,8 +646,8 @@
         "ronde": 4,
         "hari": "Kamis, 29 Okt",
         "jam": "16.45",
-        "a": "GANI",
-        "b": "Tim 1 Spenpat Subang",
+        "a": "Tim 1 Spenpat Subang",
+        "b": "GANI",
         "menang": "",
         "durasi": ""
       },
@@ -668,8 +668,8 @@
         "ronde": 4,
         "hari": "Kamis, 29 Okt",
         "jam": "16.45",
-        "a": "Kangkung rebus",
-        "b": "BMDB_Esport Tim 2",
+        "a": "BMDB_Esport Tim 2",
+        "b": "Kangkung rebus",
         "menang": "",
         "durasi": ""
       },
@@ -690,8 +690,8 @@
         "ronde": 4,
         "hari": "Kamis, 29 Okt",
         "jam": "17.10",
-        "a": "SIEXTY",
-        "b": "BTR LIBELSZ",
+        "a": "BTR LIBELSZ",
+        "b": "SIEXTY",
         "menang": "",
         "durasi": ""
       },
@@ -712,8 +712,8 @@
         "ronde": 4,
         "hari": "Kamis, 29 Okt",
         "jam": "17.10",
-        "a": "LABSRAW",
-        "b": "Nexura Storm (NXR)",
+        "a": "Nexura Storm (NXR)",
+        "b": "LABSRAW",
         "menang": "",
         "durasi": ""
       },
@@ -734,8 +734,8 @@
         "ronde": 4,
         "hari": "Kamis, 29 Okt",
         "jam": "19.00",
-        "a": "Annajah Esport",
-        "b": "PEGOPAT B",
+        "a": "PEGOPAT B",
+        "b": "Annajah Esport",
         "menang": "",
         "durasi": ""
       },
@@ -756,8 +756,8 @@
         "ronde": 4,
         "hari": "Kamis, 29 Okt",
         "jam": "19.00",
-        "a": "SMP LABSCIB",
-        "b": "Lucky's Family",
+        "a": "Lucky's Family",
+        "b": "SMP LABSCIB",
         "menang": "",
         "durasi": ""
       },
@@ -833,8 +833,8 @@
         "ronde": 5,
         "hari": "Kamis, 29 Okt",
         "jam": "19.50",
-        "a": "Tim 3 Spenpat Subang",
-        "b": "SMPN 255 JKT",
+        "a": "SMPN 255 JKT",
+        "b": "Tim 3 Spenpat Subang",
         "menang": "",
         "durasi": ""
       },
@@ -855,8 +855,8 @@
         "ronde": 5,
         "hari": "Kamis, 29 Okt",
         "jam": "19.50",
-        "a": "SPANSAK",
-        "b": "Tim 2 Spenpat Subang",
+        "a": "Tim 2 Spenpat Subang",
+        "b": "SPANSAK",
         "menang": "",
         "durasi": ""
       },
@@ -877,8 +877,8 @@
         "ronde": 5,
         "hari": "Kamis, 29 Okt",
         "jam": "20.15",
-        "a": "APEX ESPORTS",
-        "b": "BMDB _Esport",
+        "a": "BMDB _Esport",
+        "b": "APEX ESPORTS",
         "menang": "",
         "durasi": ""
       },
@@ -899,8 +899,8 @@
         "ronde": 5,
         "hari": "Kamis, 29 Okt",
         "jam": "20.15",
-        "a": "BARFORCE",
-        "b": "Putra One Legion",
+        "a": "Putra One Legion",
+        "b": "BARFORCE",
         "menang": "",
         "durasi": ""
       }
