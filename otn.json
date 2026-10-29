@@ -736,8 +736,8 @@
         "jam": "19.00",
         "a": "PEGOPAT B",
         "b": "Annajah Esport",
-        "menang": "",
-        "durasi": ""
+        "menang": "a",
+        "durasi": "15:27"
       },
       {
         "id": "E4-2",
@@ -747,8 +747,8 @@
         "jam": "19.00",
         "a": "APEX ESPORTS",
         "b": "Phelas Esport",
-        "menang": "",
-        "durasi": ""
+        "menang": "b",
+        "durasi": "09:54"
       },
       {
         "id": "F4-1",
