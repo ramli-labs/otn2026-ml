@@ -249,7 +249,7 @@ details.bk-day{margin-top:10px}details.bk-day>summary{cursor:pointer;font-weight
   </div>
   <div class="panel" style="margin-top:14px">
     <h3>Poin fase grup SMP</h3>
-    <p class="lead">Menang 3 poin, kalah 0, WO 0 (lawan yang menang WO dihitung menang dengan durasi 5 menit untuk rata-rata durasi). Bila poin sama: head-to-head, lalu rata-rata durasi kemenangan tercepat, lalu total kill, lalu match tiebreak BO1.</p>
+    <p class="lead">Menang 3 poin, kalah 0, WO 0 (lawan yang menang WO dihitung menang dengan durasi 7 menit untuk rata-rata durasi). Bila poin sama: head-to-head (bila tiga tim seri melingkar, tim dengan rata-rata durasi kemenangan tercepat diambil dulu, sisanya diurutkan dengan head-to-head), lalu rata-rata durasi kemenangan tercepat, lalu total kill, lalu match tiebreak BO1.</p>
   </div>
   <div class="two">
     <div class="panel">
@@ -446,13 +446,21 @@ details.bk-day{margin-top:10px}details.bk-day>summary{cursor:pointer;font-weight
     var ts=D.smp.grup[g], st={}; ts.forEach(function(t){st[t]={t:t,m:0,w:0,l:0,p:0,dur:[]};});
     var ms=D.smp.match.filter(function(m){return m.grup===g;}), selesai=ms.every(function(m){return m.menang;});
     ms.forEach(function(m){ if(!m.menang) return; var w=m.menang==='a'?m.a:m.b, l=m.menang==='a'?m.b:m.a;
-      st[w].m++; st[w].w++; st[w].p+=3; st[l].m++; st[l].l++; if(m.wo) st[w].dur.push(300); else if(m.durasi) st[w].dur.push(sec(m.durasi)); });
+      st[w].m++; st[w].w++; st[w].p+=3; st[l].m++; st[l].l++; if(m.wo) st[w].dur.push(420); else if(m.durasi) st[w].dur.push(sec(m.durasi)); });
     function h2h(x,y){ var m=ms.filter(function(m){return m.menang&&((m.a===x&&m.b===y)||(m.a===y&&m.b===x));})[0]; if(!m) return 0; var w=m.menang==='a'?m.a:m.b; return w===x?-1:1; }
     function avg(o){ return o.dur.length? o.dur.reduce(function(a,b){return a+b;},0)/o.dur.length : 99999; }
-    var arr=ts.map(function(t){return st[t];});
-    arr.sort(function(x,y){ if(y.p!==x.p) return y.p-x.p;
-      var same=arr.filter(function(o){return o.p===x.p;}); if(same.length===2){var h=h2h(x.t,y.t); if(h) return h;}
-      return avg(x)-avg(y); });
+    function tieSort(list){
+      if(list.length<2) return list;
+      if(list.length===2){ var h=h2h(list[0].t,list[1].t); if(h) return h<0?[list[0],list[1]]:[list[1],list[0]]; return list.slice().sort(function(x,y){return avg(x)-avg(y);}); }
+      var wins={}; list.forEach(function(o){wins[o.t]=0;});
+      list.forEach(function(x){ list.forEach(function(y){ if(x!==y && h2h(x.t,y.t)<0) wins[x.t]++; }); });
+      var vals=list.map(function(o){return wins[o.t];}), allSame=vals.every(function(v){return v===vals[0];});
+      if(!allSame){ var groups={}; list.forEach(function(o){(groups[wins[o.t]]=groups[wins[o.t]]||[]).push(o);}); return Object.keys(groups).map(Number).sort(function(a,b){return b-a;}).reduce(function(acc,k){return acc.concat(tieSort(groups[k]));},[]); }
+      var best=list.slice().sort(function(x,y){return avg(x)-avg(y);})[0];
+      return [best].concat(tieSort(list.filter(function(o){return o!==best;})));
+    }
+    var byP={}; ts.forEach(function(t){(byP[st[t].p]=byP[st[t].p]||[]).push(st[t]);});
+    var arr=Object.keys(byP).map(Number).sort(function(a,b){return b-a;}).reduce(function(acc,p){return acc.concat(tieSort(byP[p]));},[]);
     return {rows:arr, selesai:selesai};
   }
   function seeds(){
