@@ -1091,7 +1091,7 @@
         "jam": "14.00",
         "a": "SMKN 17 JAKARTA",
         "b": "W:PI",
-        "menang": "",
+        "menang": "b",
         "skor": ""
       },
       {
@@ -1135,8 +1135,8 @@
         "jam": "15.00",
         "a": "W:UR1-1",
         "b": "W:UR1-2",
-        "menang": "",
-        "skor": ""
+        "menang": "a",
+        "skor": "2-0"
       },
       {
         "id": "USF-2",
@@ -1168,8 +1168,9 @@
         "jam": "15.00",
         "a": "RTG READY TO GLORY",
         "b": "L:UR1-2",
-        "menang": "",
-        "skor": ""
+        "menang": "b",
+        "skor": "2-0",
+        "wo": true
       },
       {
         "id": "LR1-1",
@@ -1190,8 +1191,8 @@
         "jam": "15.00",
         "a": "L:UR1-3",
         "b": "L:UR1-4",
-        "menang": "",
-        "skor": ""
+        "menang": "a",
+        "skor": "2-0"
       },
       {
         "id": "LR2-1",
