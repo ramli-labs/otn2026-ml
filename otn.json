@@ -1124,7 +1124,7 @@
         "jam": "14.00",
         "a": "PJ CELESTIX",
         "b": "DEWA",
-        "menang": "",
+        "menang": "a",
         "skor": ""
       },
       {
@@ -1146,8 +1146,8 @@
         "jam": "15.00",
         "a": "W:UR1-3",
         "b": "W:UR1-4",
-        "menang": "",
-        "skor": ""
+        "menang": "b",
+        "skor": "2-0"
       },
       {
         "id": "UF",
