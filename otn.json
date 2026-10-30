@@ -1161,13 +1161,24 @@
         "skor": ""
       },
       {
+        "id": "LR0",
+        "bracket": "lower",
+        "babak": "Lower Play-in",
+        "hari": "Jumat, 30 Okt",
+        "jam": "15.00",
+        "a": "RTG READY TO GLORY",
+        "b": "L:UR1-2",
+        "menang": "",
+        "skor": ""
+      },
+      {
         "id": "LR1-1",
         "bracket": "lower",
         "babak": "Lower R1",
         "hari": "Jumat, 30 Okt",
-        "jam": "15.00",
-        "a": "L:UR1-1",
-        "b": "L:UR1-2",
+        "jam": "16.00",
+        "a": "W:LR0",
+        "b": "L:UR1-1",
         "menang": "",
         "skor": ""
       },
@@ -1187,7 +1198,7 @@
         "bracket": "lower",
         "babak": "Lower R2",
         "hari": "Jumat, 30 Okt",
-        "jam": "16.00",
+        "jam": "17.00",
         "a": "W:LR1-1",
         "b": "L:USF-2",
         "menang": "",

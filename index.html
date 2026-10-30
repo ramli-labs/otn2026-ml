@@ -242,7 +242,7 @@ details.bk-day{margin-top:10px}details.bk-day>summary{cursor:pointer;font-weight
   </div>
   <h3 style="margin-top:18px">SMA · 9 tim</h3>
   <div class="stages">
-    <div class="stage"><b>Play-in</b><span class="bo">BO3</span><span class="mode">2 tim, pemenang masuk upper</span></div>
+    <div class="stage"><b>Play-in</b><span class="bo">BO3</span><span class="mode">2 tim, pemenang masuk upper, yang kalah main di Lower Play-in</span></div>
     <div class="stage"><b>Upper & Lower</b><span class="bo">BO3</span><span class="mode">Double elimination · kalah 2× gugur</span></div>
     <div class="stage"><b>Juara 3</b><span class="bo">–</span><span class="mode">Tim kalah di Lower Final</span></div>
     <div class="stage off"><b>Grand Final</b><span class="bo">BO5</span><span class="mode">Pemenang Upper vs Lower · JICC</span></div>
@@ -321,7 +321,7 @@ details.bk-day{margin-top:10px}details.bk-day>summary{cursor:pointer;font-weight
       <summary>Sebelum dan saat bertanding</summary>
       <div class="in"><ol>
         <li>Tim bersiap 30 menit sebelum jadwal. Info dikirim ke kapten lewat grup WhatsApp.</li>
-        <li><b>Room dibuat sendiri oleh kapten</b> untuk SMP fase grup, Top 16, dan Quarterfinal, serta SMA Play-in, Upper R1, Upper Semifinal, Lower R1, dan Lower R2. Kapten wajib menghubungi kapten tim lawan sebelum jadwal, lalu langsung membuat room custom.</li>
+        <li><b>Room dibuat sendiri oleh kapten</b> untuk SMP fase grup, Top 16, dan Quarterfinal, serta SMA Play-in, Upper R1, Upper Semifinal, Lower Play-in, Lower R1, dan Lower R2. Kapten wajib menghubungi kapten tim lawan sebelum jadwal, lalu langsung membuat room custom.</li>
         <li><b>Room dibuat panitia</b> untuk SMP Semifinal, Juara 3, dan Grand Final, serta SMA Upper Final, Lower Semifinal, Lower Final, dan Grand Final. Kapten sudah berteman di game dengan panitia; panitia mengundang kapten, kapten mengundang anggotanya.</li>
         <li>Pemain yang belum masuk room setelah 10 menit toleransi membuat timnya kalah WO.</li>
         <li>Wajib di Discord dengan <b>video ON dan mic ON</b>, serta memakai seragam atau jersey sekolah.</li>
@@ -521,9 +521,9 @@ details.bk-day{margin-top:10px}details.bk-day>summary{cursor:pointer;font-weight
   }
   function renderSMA(){
     var R=resolver(D.sma.match,null), L=D.sma.match;
-    var h='<p class="bk-note">Double elimination · BO3. Jumat, 30 Oktober: Play-in sampai Lower R2 (beberapa match bersamaan). Sabtu, 31 Oktober: 4 besar (Upper Final 13.00, Lower Semifinal 14.00, Lower Final 16.00) dimainkan satu per satu. Kalah sekali turun ke lower bracket, kalah dua kali gugur. Juara 3 = tim yang kalah di Lower Final. Grand Final BO5 di JICC.</p>';
+    var h='<p class="bk-note">Double elimination · BO3. Jumat, 30 Oktober: Play-in sampai Lower R2, termasuk Lower Play-in untuk tim yang kalah di Play-in (beberapa match bersamaan). Sabtu, 31 Oktober: 4 besar (Upper Final 13.00, Lower Semifinal 14.00, Lower Final 16.00) dimainkan satu per satu. Kalah sekali turun ke lower bracket, kalah dua kali gugur. Juara 3 = tim yang kalah di Lower Final. Grand Final BO5 di JICC.</p>';
     h+='<h3 style="margin:12px 0 6px">Upper Bracket</h3>'+cols(L.filter(function(m){return m.bracket!=='lower';}),R,['Play-in','Upper R1','Upper Semifinal','Upper Final','Grand Final']);
-    h+='<h3 style="margin:12px 0 6px">Lower Bracket</h3>'+cols(L.filter(function(m){return m.bracket==='lower';}),R,['Lower R1','Lower R2','Lower Semifinal','Lower Final']);
+    h+='<h3 style="margin:12px 0 6px">Lower Bracket</h3>'+cols(L.filter(function(m){return m.bracket==='lower';}),R,['Lower Play-in','Lower R1','Lower R2','Lower Semifinal','Lower Final']);
     return h;
   }
   function render(){
