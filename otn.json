@@ -1059,6 +1059,26 @@
         "skor": ""
       },
       {
+        "id": "HR-1",
+        "babak": "Juara Harapan",
+        "hari": "Sabtu, 31 Okt",
+        "jam": "12.00",
+        "a": "L:QF-1",
+        "b": "L:QF-2",
+        "menang": "",
+        "skor": ""
+      },
+      {
+        "id": "HR-2",
+        "babak": "Juara Harapan",
+        "hari": "Sabtu, 31 Okt",
+        "jam": "12.00",
+        "a": "L:QF-3",
+        "b": "L:QF-4",
+        "menang": "",
+        "skor": ""
+      },
+      {
         "id": "GF",
         "babak": "Grand Final",
         "hari": "Minggu, 1 Nov · JICC",
