@@ -152,6 +152,7 @@ footer{color:var(--muted);font-size:13px;text-align:center;padding-block:0 32px}
 .bk-t td.n,.bk-t th.n{text-align:center;width:34px}
 .bk-t tr.q td{background:var(--tint)}
 .bk-s{display:block;font-size:12px;color:var(--muted)}
+.bk-info{background:var(--tint);border-left:4px solid var(--yellow);border-radius:8px;padding:12px 14px;margin:0 0 14px}.bk-info b{display:block}.bk-info p{margin:4px 0 0;font-size:14px}.bk-info .bk-list{margin-top:10px}.bk-st{font-size:12px;color:var(--muted)}.bk-st.on{color:var(--ok);font-weight:700}
 .bk-note{font-size:13px;color:var(--muted);margin:8px 0}
 .bk-br{display:flex;gap:16px;overflow-x:auto;padding:4px 0 10px;-webkit-overflow-scrolling:touch}
 .bk-col{display:flex;flex-direction:column;justify-content:space-around;gap:10px;min-width:200px;flex:0 0 200px}
@@ -372,6 +373,7 @@ details.bk-day{margin-top:10px}details.bk-day>summary{cursor:pointer;font-weight
 <section id="bracket">
   <span class="eyebrow">Bracket</span>
   <h2>Bracket & Hasil</h2>
+  <div id="bkInfo"></div>
   <div class="tabs" role="tablist">
     <button class="tab" role="tab" id="tabSMP" aria-selected="true">SMP</button>
     <button class="tab" role="tab" id="tabSMA" aria-selected="false">SMA</button>
@@ -534,10 +536,28 @@ details.bk-day{margin-top:10px}details.bk-day>summary{cursor:pointer;font-weight
   function pilih(j){
     jenjang=j; Object.keys(tabs).forEach(function(k){ tabs[k].setAttribute('aria-selected', k===j ? 'true':'false'); }); render();
   }
+  function renderInfo(){
+    var el=document.getElementById('bkInfo'), h='';
+    if(D.pengumuman&&D.pengumuman.tampil) h+='<div class="bk-info"><b>'+esc(D.pengumuman.judul)+'</b><p>'+esc(D.pengumuman.isi)+'</p></div>';
+    var u=D.urutan;
+    if(u&&u.daftar&&u.daftar.length){
+      var RS=resolver(D.smp.gugur,seeds()), RA=resolver(D.sma.match,null);
+      h+='<div class="bk-info"><b>Urutan Main · '+esc(u.hari)+'</b>'+(u.catatan?'<p>'+esc(u.catatan)+'</p>':'')+'<div class="bk-list">';
+      u.daftar.forEach(function(x,i){
+        var smp=x.j==='SMP', L=smp?D.smp.gugur:D.sma.match, R=smp?RS:RA, m=L.filter(function(q){return q.id===x.id;})[0]; if(!m) return;
+        var a=R.who(m.a)||R.label(m.a), b=R.who(m.b)||R.label(m.b), st='Menunggu', cls='';
+        if(m.menang){ st='Selesai · '+esc(m.menang==='a'?a:b)+(m.skor?' '+esc(m.skor.split('-').sort().reverse().join('-')):''); }
+        else if((u.berlangsung||[]).indexOf(x.j+':'+x.id)>=0){ st='Sedang berlangsung'; cls=' on'; }
+        h+='<div class="bk-row"><span class="bk-tag">'+(i+1)+'</span><b>'+esc(m.jam)+'</b><span class="vs"><b>'+esc(a)+'</b><span>vs</span><b>'+esc(b)+'</b><span class="bk-s">'+esc(x.j)+' · '+esc(x.id)+' · '+esc(m.babak)+'</span><span class="bk-st'+cls+'">'+st+'</span></span></div>';
+      });
+      h+='</div></div>';
+    }
+    el.innerHTML=h;
+  }
   tabs.SMP.addEventListener('click', function(){pilih('SMP');});
   tabs.SMA.addEventListener('click', function(){pilih('SMA');});
   fetch('otn.json?v='+Date.now(),{cache:'no-store'}).then(function(r){return r.json();}).then(function(d){
-    D=d; document.getElementById('bkUpd').textContent='Hasil diperbarui: '+(d.diperbarui||'-'); render();
+    D=d; document.getElementById('bkUpd').textContent='Hasil diperbarui: '+(d.diperbarui||'-'); render(); try{renderInfo();}catch(e){}
   }).catch(function(){ document.getElementById('bk').innerHTML='<div class="pending"><b>Bracket belum bisa dimuat.</b><p>Coba muat ulang halaman.</p></div>'; });
 
   document.getElementById('copyBtn').addEventListener('click', function(){
