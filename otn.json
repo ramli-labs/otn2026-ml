@@ -1025,8 +1025,8 @@
     "jam": "09.00",
     "a": "W:R16-7",
     "b": "W:R16-8",
-    "menang": "",
-    "skor": ""
+    "menang": "b",
+    "skor": "1-2"
    },
    {
     "id": "SF-1",
@@ -1279,9 +1279,7 @@
  "urutan": {
   "hari": "Sabtu, 31 Okt 2026",
   "catatan": "Urutan main bersifat berurutan; jam bisa bergeser mengikuti pertandingan sebelumnya.",
-  "berlangsung": [
-   "SMP:QF-4"
-  ],
+  "berlangsung": [],
   "daftar": [
    {
     "j": "SMP",
