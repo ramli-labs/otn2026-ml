@@ -1079,6 +1079,16 @@
     "skor": "0-2"
    },
    {
+    "id": "HR-F",
+    "babak": "Final Juara Harapan",
+    "hari": "Sabtu, 31 Okt",
+    "jam": "TBA",
+    "a": "W:HR-1",
+    "b": "W:HR-2",
+    "menang": "",
+    "skor": ""
+   },
+   {
     "id": "GF",
     "babak": "Grand Final",
     "hari": "Minggu, 1 Nov · JICC",
@@ -1312,6 +1322,10 @@
    {
     "j": "SMP",
     "id": "HR-2"
+   },
+   {
+    "j": "SMP",
+    "id": "HR-F"
    },
    {
     "j": "SMA",
